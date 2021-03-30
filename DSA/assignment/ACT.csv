@@ -1,0 +1,562 @@
+2016 Federal Election House of Representatives First Preferences By Candidate By Polling Place for ACT [Event:20499 Phase:FinalResults Generated:2017-05-11T17:34:48 Cycle:a45ea4bc-bff6-48cb-94c5-1bbaae0c7c0d Created:2017-05-11T17:29:15 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.5.84.43192]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+ACT,101,Canberra,8829,Barton,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,777,-4.43
+ACT,101,Canberra,8829,Barton,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,467,4.24
+ACT,101,Canberra,8829,Barton,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,81,-0.71
+ACT,101,Canberra,8829,Barton,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,907,4.01
+ACT,101,Canberra,8829,Barton,999,Informal,Informal,999,N,N,,Informal,45,-1.31
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,485,4.17
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,177,0.15
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,63,-0.42
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,394,1.97
+ACT,101,Canberra,64583,Belconnen CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,23,-2.73
+ACT,101,Canberra,65504,BLV Canberra PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,12,-3.88
+ACT,101,Canberra,65504,BLV Canberra PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,5,-4.28
+ACT,101,Canberra,65504,BLV Canberra PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,2,5.92
+ACT,101,Canberra,65504,BLV Canberra PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,14,7.61
+ACT,101,Canberra,65504,BLV Canberra PPVC,999,Informal,Informal,999,N,N,,Informal,1,-1.72
+ACT,101,Canberra,11877,Bonython,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,942,5.02
+ACT,101,Canberra,11877,Bonython,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,218,-0.18
+ACT,101,Canberra,11877,Bonython,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,65,-0.76
+ACT,101,Canberra,11877,Bonython,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,629,-0.03
+ACT,101,Canberra,11877,Bonython,999,Informal,Informal,999,N,N,,Informal,53,-2.5
+ACT,101,Canberra,8802,Braddon (Canberra),28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,470,-9.64
+ACT,101,Canberra,8802,Braddon (Canberra),28336,CAHILL,Patricia,2,N,N,GRN,The Greens,359,8.07
+ACT,101,Canberra,8802,Braddon (Canberra),29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,79,1.11
+ACT,101,Canberra,8802,Braddon (Canberra),28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,341,4.54
+ACT,101,Canberra,8802,Braddon (Canberra),999,Informal,Informal,999,N,N,,Informal,22,-1.97
+ACT,101,Canberra,11452,Calwell,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1081,4.35
+ACT,101,Canberra,11452,Calwell,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,257,0.22
+ACT,101,Canberra,11452,Calwell,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,111,1.16
+ACT,101,Canberra,11452,Calwell,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,816,-1.05
+ACT,101,Canberra,11452,Calwell,999,Informal,Informal,999,N,N,,Informal,94,-1.04
+ACT,101,Canberra,8806,Campbell,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,677,2.53
+ACT,101,Canberra,8806,Campbell,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,309,2.87
+ACT,101,Canberra,8806,Campbell,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,78,-1.85
+ACT,101,Canberra,8806,Campbell,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,787,0.27
+ACT,101,Canberra,8806,Campbell,999,Informal,Informal,999,N,N,,Informal,26,0.82
+ACT,101,Canberra,8761,Chapman,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1103,1.11
+ACT,101,Canberra,8761,Chapman,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,428,2.45
+ACT,101,Canberra,8761,Chapman,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,127,1.52
+ACT,101,Canberra,8761,Chapman,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,975,-1.05
+ACT,101,Canberra,8761,Chapman,999,Informal,Informal,999,N,N,,Informal,55,-1.47
+ACT,101,Canberra,8763,Chisholm,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,832,7.68
+ACT,101,Canberra,8763,Chisholm,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,153,-0.3
+ACT,101,Canberra,8763,Chisholm,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,88,1.02
+ACT,101,Canberra,8763,Chisholm,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,606,-2.39
+ACT,101,Canberra,8763,Chisholm,999,Informal,Informal,999,N,N,,Informal,56,-1.76
+ACT,101,Canberra,8808,City (Canberra),28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,381,-6.72
+ACT,101,Canberra,8808,City (Canberra),28336,CAHILL,Patricia,2,N,N,GRN,The Greens,295,1.92
+ACT,101,Canberra,8808,City (Canberra),29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,51,-0.41
+ACT,101,Canberra,8808,City (Canberra),28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,317,9.04
+ACT,101,Canberra,8808,City (Canberra),999,Informal,Informal,999,N,N,,Informal,30,-0.71
+ACT,101,Canberra,58708,City CANBERRA PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,2496,-4.57
+ACT,101,Canberra,58708,City CANBERRA PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,1206,3.08
+ACT,101,Canberra,58708,City CANBERRA PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,375,0.18
+ACT,101,Canberra,58708,City CANBERRA PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,2693,5.21
+ACT,101,Canberra,58708,City CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,138,-0.72
+ACT,101,Canberra,31298,Conder,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1522,5.6
+ACT,101,Canberra,31298,Conder,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,312,0.5
+ACT,101,Canberra,31298,Conder,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,146,0.05
+ACT,101,Canberra,31298,Conder,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,1074,0.29
+ACT,101,Canberra,31298,Conder,999,Informal,Informal,999,N,N,,Informal,117,-1.9
+ACT,101,Canberra,82523,Coombs,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,554,0.47
+ACT,101,Canberra,82523,Coombs,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,192,1.37
+ACT,101,Canberra,82523,Coombs,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,56,0.85
+ACT,101,Canberra,82523,Coombs,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,449,1.19
+ACT,101,Canberra,82523,Coombs,999,Informal,Informal,999,N,N,,Informal,32,-0.86
+ACT,101,Canberra,8764,Curtin,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1090,-0.09
+ACT,101,Canberra,8764,Curtin,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,509,2.21
+ACT,101,Canberra,8764,Curtin,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,103,0.49
+ACT,101,Canberra,8764,Curtin,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,837,0.69
+ACT,101,Canberra,8764,Curtin,999,Informal,Informal,999,N,N,,Informal,42,-1.54
+ACT,101,Canberra,8766,Deakin,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,374,0.28
+ACT,101,Canberra,8766,Deakin,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,128,-0.87
+ACT,101,Canberra,8766,Deakin,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,43,0.15
+ACT,101,Canberra,8766,Deakin,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,701,1.68
+ACT,101,Canberra,8766,Deakin,999,Informal,Informal,999,N,N,,Informal,15,-1.55
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,68,-3.12
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),28336,CAHILL,Patricia,2,N,N,GRN,The Greens,20,-6.67
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,11,0.95
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,85,12.42
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,4,-0.8
+ACT,101,Canberra,8767,Duffy,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,833,-0.26
+ACT,101,Canberra,8767,Duffy,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,371,5.17
+ACT,101,Canberra,8767,Duffy,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,99,2.04
+ACT,101,Canberra,8767,Duffy,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,578,-3.01
+ACT,101,Canberra,8767,Duffy,999,Informal,Informal,999,N,N,,Informal,53,-0.85
+ACT,101,Canberra,8768,Fadden,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,768,2.49
+ACT,101,Canberra,8768,Fadden,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,214,0.3
+ACT,101,Canberra,8768,Fadden,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,69,-0.2
+ACT,101,Canberra,8768,Fadden,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,856,1.72
+ACT,101,Canberra,8768,Fadden,999,Informal,Informal,999,N,N,,Informal,43,-1.01
+ACT,101,Canberra,8769,Farrer,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,992,3.24
+ACT,101,Canberra,8769,Farrer,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,339,1.87
+ACT,101,Canberra,8769,Farrer,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,82,0.06
+ACT,101,Canberra,8769,Farrer,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,1003,-1.86
+ACT,101,Canberra,8769,Farrer,999,Informal,Informal,999,N,N,,Informal,43,-0.83
+ACT,101,Canberra,8794,Garran,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,492,-1.11
+ACT,101,Canberra,8794,Garran,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,209,2.04
+ACT,101,Canberra,8794,Garran,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,39,0.22
+ACT,101,Canberra,8794,Garran,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,504,1.78
+ACT,101,Canberra,8794,Garran,999,Informal,Informal,999,N,N,,Informal,27,-1.42
+ACT,101,Canberra,8771,Gilmore,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,859,4.16
+ACT,101,Canberra,8771,Gilmore,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,178,-0.23
+ACT,101,Canberra,8771,Gilmore,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,106,2.13
+ACT,101,Canberra,8771,Gilmore,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,716,0.14
+ACT,101,Canberra,8771,Gilmore,999,Informal,Informal,999,N,N,,Informal,95,-0.27
+ACT,101,Canberra,12072,Gordon,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1677,4.8
+ACT,101,Canberra,12072,Gordon,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,392,1.38
+ACT,101,Canberra,12072,Gordon,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,152,0.65
+ACT,101,Canberra,12072,Gordon,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,1249,-1.71
+ACT,101,Canberra,12072,Gordon,999,Informal,Informal,999,N,N,,Informal,145,-1.6
+ACT,101,Canberra,8772,Gowrie,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,774,4.97
+ACT,101,Canberra,8772,Gowrie,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,240,2.35
+ACT,101,Canberra,8772,Gowrie,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,88,0.87
+ACT,101,Canberra,8772,Gowrie,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,629,-1.83
+ACT,101,Canberra,8772,Gowrie,999,Informal,Informal,999,N,N,,Informal,58,-1.12
+ACT,101,Canberra,8817,Griffith,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,514,-1.08
+ACT,101,Canberra,8817,Griffith,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,237,3.37
+ACT,101,Canberra,8817,Griffith,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,54,-1.07
+ACT,101,Canberra,8817,Griffith,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,605,1.75
+ACT,101,Canberra,8817,Griffith,999,Informal,Informal,999,N,N,,Informal,36,-1.23
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,97,0.49
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,32,5.87
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,16,3.27
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,95,-3.85
+ACT,101,Canberra,65981,Gungahlin CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,11,0.88
+ACT,101,Canberra,8773,Holder,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,899,0.35
+ACT,101,Canberra,8773,Holder,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,316,2.12
+ACT,101,Canberra,8773,Holder,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,83,-0.28
+ACT,101,Canberra,8773,Holder,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,815,1.77
+ACT,101,Canberra,8773,Holder,999,Informal,Informal,999,N,N,,Informal,53,-0.23
+ACT,101,Canberra,8774,Hughes,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,841,0.95
+ACT,101,Canberra,8774,Hughes,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,323,0.97
+ACT,101,Canberra,8774,Hughes,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,63,-0.73
+ACT,101,Canberra,8774,Hughes,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,721,1.31
+ACT,101,Canberra,8774,Hughes,999,Informal,Informal,999,N,N,,Informal,35,-1.88
+ACT,101,Canberra,8884,Isabella Plains,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1004,3.7
+ACT,101,Canberra,8884,Isabella Plains,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,248,2.13
+ACT,101,Canberra,8884,Isabella Plains,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,103,0.44
+ACT,101,Canberra,8884,Isabella Plains,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,663,-1.26
+ACT,101,Canberra,8884,Isabella Plains,999,Informal,Informal,999,N,N,,Informal,87,-0.92
+ACT,101,Canberra,8776,Kambah North,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,685,5.91
+ACT,101,Canberra,8776,Kambah North,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,223,1.04
+ACT,101,Canberra,8776,Kambah North,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,53,0.95
+ACT,101,Canberra,8776,Kambah North,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,495,-1.24
+ACT,101,Canberra,8776,Kambah North,999,Informal,Informal,999,N,N,,Informal,39,-0.81
+ACT,101,Canberra,8777,Kambah South,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1127,3.39
+ACT,101,Canberra,8777,Kambah South,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,381,1.33
+ACT,101,Canberra,8777,Kambah South,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,126,0.21
+ACT,101,Canberra,8777,Kambah South,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,704,-0.24
+ACT,101,Canberra,8777,Kambah South,999,Informal,Informal,999,N,N,,Informal,77,-0.59
+ACT,101,Canberra,8778,Kambah West,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1214,2.14
+ACT,101,Canberra,8778,Kambah West,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,407,2.99
+ACT,101,Canberra,8778,Kambah West,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,125,1.38
+ACT,101,Canberra,8778,Kambah West,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,960,-1.78
+ACT,101,Canberra,8778,Kambah West,999,Informal,Informal,999,N,N,,Informal,79,-2.76
+ACT,101,Canberra,8779,Lyons,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,560,2.97
+ACT,101,Canberra,8779,Lyons,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,224,0.74
+ACT,101,Canberra,8779,Lyons,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,70,1.74
+ACT,101,Canberra,8779,Lyons,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,406,-1.01
+ACT,101,Canberra,8779,Lyons,999,Informal,Informal,999,N,N,,Informal,27,-1.65
+ACT,101,Canberra,8780,Mawson,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,967,3
+ACT,101,Canberra,8780,Mawson,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,354,3.93
+ACT,101,Canberra,8780,Mawson,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,101,0.85
+ACT,101,Canberra,8780,Mawson,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,769,-4.65
+ACT,101,Canberra,8780,Mawson,999,Informal,Informal,999,N,N,,Informal,53,-1.69
+ACT,101,Canberra,8781,Monash,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1088,3.96
+ACT,101,Canberra,8781,Monash,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,256,0.34
+ACT,101,Canberra,8781,Monash,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,101,0.23
+ACT,101,Canberra,8781,Monash,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,890,0.31
+ACT,101,Canberra,8781,Monash,999,Informal,Informal,999,N,N,,Informal,83,-1.73
+ACT,101,Canberra,8782,Narrabundah,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,804,0.38
+ACT,101,Canberra,8782,Narrabundah,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,314,3.29
+ACT,101,Canberra,8782,Narrabundah,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,69,0.39
+ACT,101,Canberra,8782,Narrabundah,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,537,0.85
+ACT,101,Canberra,8782,Narrabundah,999,Informal,Informal,999,N,N,,Informal,84,-1.42
+ACT,101,Canberra,65739,Norfolk Island,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,77,-12.38
+ACT,101,Canberra,65739,Norfolk Island,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,62,16.32
+ACT,101,Canberra,65739,Norfolk Island,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,10,3.98
+ACT,101,Canberra,65739,Norfolk Island,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,96,0.92
+ACT,101,Canberra,65739,Norfolk Island,999,Informal,Informal,999,N,N,,Informal,50,15.76
+ACT,101,Canberra,66153,Norfolk Island PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,29,-6.48
+ACT,101,Canberra,66153,Norfolk Island PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,19,4.56
+ACT,101,Canberra,66153,Norfolk Island PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,2,-3.7
+ACT,101,Canberra,66153,Norfolk Island PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,33,11.34
+ACT,101,Canberra,66153,Norfolk Island PPVC,999,Informal,Informal,999,N,N,,Informal,15,10.71
+ACT,101,Canberra,8783,Oaks Estate,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,65,-1.15
+ACT,101,Canberra,8783,Oaks Estate,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,35,3.45
+ACT,101,Canberra,8783,Oaks Estate,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,12,1.73
+ACT,101,Canberra,8783,Oaks Estate,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,62,5.16
+ACT,101,Canberra,8783,Oaks Estate,999,Informal,Informal,999,N,N,,Informal,11,0.52
+ACT,101,Canberra,65158,Other Mobile Team 1,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,11,0.25
+ACT,101,Canberra,65158,Other Mobile Team 1,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,4,15.99
+ACT,101,Canberra,65158,Other Mobile Team 1,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,2,1.75
+ACT,101,Canberra,65158,Other Mobile Team 1,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,8,6.98
+ACT,101,Canberra,65158,Other Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,0,-0.01
+ACT,101,Canberra,65741,Parkes (Canberra),28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1025,-3.4
+ACT,101,Canberra,65741,Parkes (Canberra),28336,CAHILL,Patricia,2,N,N,GRN,The Greens,653,4.57
+ACT,101,Canberra,65741,Parkes (Canberra),29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,131,-0.05
+ACT,101,Canberra,65741,Parkes (Canberra),28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,802,2.06
+ACT,101,Canberra,65741,Parkes (Canberra),999,Informal,Informal,999,N,N,,Informal,18,-1.65
+ACT,101,Canberra,65742,Parkes PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,0,0
+ACT,101,Canberra,65742,Parkes PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,0,0
+ACT,101,Canberra,65742,Parkes PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,0,0
+ACT,101,Canberra,65742,Parkes PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,0,0
+ACT,101,Canberra,65742,Parkes PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+ACT,101,Canberra,8784,Pearce,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1105,0.71
+ACT,101,Canberra,8784,Pearce,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,375,0.54
+ACT,101,Canberra,8784,Pearce,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,108,0.16
+ACT,101,Canberra,8784,Pearce,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,927,2.41
+ACT,101,Canberra,8784,Pearce,999,Informal,Informal,999,N,N,,Informal,80,-0.81
+ACT,101,Canberra,8785,Red Hill,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,851,0.38
+ACT,101,Canberra,8785,Red Hill,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,353,0.46
+ACT,101,Canberra,8785,Red Hill,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,90,-0.21
+ACT,101,Canberra,8785,Red Hill,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,936,2.01
+ACT,101,Canberra,8785,Red Hill,999,Informal,Informal,999,N,N,,Informal,43,-0.85
+ACT,101,Canberra,8786,Richardson,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,779,6.81
+ACT,101,Canberra,8786,Richardson,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,153,0.35
+ACT,101,Canberra,8786,Richardson,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,69,0.28
+ACT,101,Canberra,8786,Richardson,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,476,-2.04
+ACT,101,Canberra,8786,Richardson,999,Informal,Informal,999,N,N,,Informal,68,-1.75
+ACT,101,Canberra,32712,Special Hospital Team 1,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,101,8.42
+ACT,101,Canberra,32712,Special Hospital Team 1,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,13,-0.99
+ACT,101,Canberra,32712,Special Hospital Team 1,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,5,0.45
+ACT,101,Canberra,32712,Special Hospital Team 1,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,98,-4.13
+ACT,101,Canberra,32712,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,6,-5.33
+ACT,101,Canberra,58810,Special Hospital Team 2,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,90,9.5
+ACT,101,Canberra,58810,Special Hospital Team 2,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,16,1.49
+ACT,101,Canberra,58810,Special Hospital Team 2,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,3,-0.26
+ACT,101,Canberra,58810,Special Hospital Team 2,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,80,-6.96
+ACT,101,Canberra,58810,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,14,-1.12
+ACT,101,Canberra,58811,Special Hospital Team 3,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,81,8.43
+ACT,101,Canberra,58811,Special Hospital Team 3,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,8,-2.38
+ACT,101,Canberra,58811,Special Hospital Team 3,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,2,-0.7
+ACT,101,Canberra,58811,Special Hospital Team 3,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,83,-1.59
+ACT,101,Canberra,58811,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,9,-3.1
+ACT,101,Canberra,66154,Special Hospital Team 4,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,284,14.38
+ACT,101,Canberra,66154,Special Hospital Team 4,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,63,4.67
+ACT,101,Canberra,66154,Special Hospital Team 4,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,15,0.92
+ACT,101,Canberra,66154,Special Hospital Team 4,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,179,-16.2
+ACT,101,Canberra,66154,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,34,-2.11
+ACT,101,Canberra,8788,Tharwa,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,45,7.35
+ACT,101,Canberra,8788,Tharwa,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,20,-6.42
+ACT,101,Canberra,8788,Tharwa,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,6,0.6
+ACT,101,Canberra,8788,Tharwa,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,63,4.29
+ACT,101,Canberra,8788,Tharwa,999,Informal,Informal,999,N,N,,Informal,3,-4.17
+ACT,101,Canberra,11878,Theodore,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,779,7.12
+ACT,101,Canberra,11878,Theodore,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,185,0.64
+ACT,101,Canberra,11878,Theodore,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,82,1.36
+ACT,101,Canberra,11878,Theodore,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,555,-3.25
+ACT,101,Canberra,11878,Theodore,999,Informal,Informal,999,N,N,,Informal,64,-1.76
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,6183,3.48
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,1344,0.66
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,623,0.66
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,5566,0.39
+ACT,101,Canberra,32704,Tuggeranong CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,458,-0.87
+ACT,101,Canberra,66118,Turner (Canberra),28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,231,-9.11
+ACT,101,Canberra,66118,Turner (Canberra),28336,CAHILL,Patricia,2,N,N,GRN,The Greens,207,7.01
+ACT,101,Canberra,66118,Turner (Canberra),29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,45,2.71
+ACT,101,Canberra,66118,Turner (Canberra),28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,143,2.96
+ACT,101,Canberra,66118,Turner (Canberra),999,Informal,Informal,999,N,N,,Informal,11,-1.34
+ACT,101,Canberra,8790,Wanniassa,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1004,1.25
+ACT,101,Canberra,8790,Wanniassa,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,247,1.1
+ACT,101,Canberra,8790,Wanniassa,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,116,0.91
+ACT,101,Canberra,8790,Wanniassa,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,721,2.31
+ACT,101,Canberra,8790,Wanniassa,999,Informal,Informal,999,N,N,,Informal,76,-3.17
+ACT,101,Canberra,8791,Wanniassa Hills,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,880,2.47
+ACT,101,Canberra,8791,Wanniassa Hills,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,290,1.69
+ACT,101,Canberra,8791,Wanniassa Hills,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,76,0.3
+ACT,101,Canberra,8791,Wanniassa Hills,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,661,0.41
+ACT,101,Canberra,8791,Wanniassa Hills,999,Informal,Informal,999,N,N,,Informal,53,-0.95
+ACT,101,Canberra,8792,Waramanga,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,1093,1.08
+ACT,101,Canberra,8792,Waramanga,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,413,1.97
+ACT,101,Canberra,8792,Waramanga,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,103,0.14
+ACT,101,Canberra,8792,Waramanga,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,857,0.39
+ACT,101,Canberra,8792,Waramanga,999,Informal,Informal,999,N,N,,Informal,94,0.31
+ACT,101,Canberra,8793,Weston,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,645,-0.15
+ACT,101,Canberra,8793,Weston,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,249,2.71
+ACT,101,Canberra,8793,Weston,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,51,-0.51
+ACT,101,Canberra,8793,Weston,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,475,1.04
+ACT,101,Canberra,8793,Weston,999,Informal,Informal,999,N,N,,Informal,40,-1.81
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,4398,1.74
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,1402,1
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,396,-0.12
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,4420,0.82
+ACT,101,Canberra,32705,Woden CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,259,-0.88
+ACT,101,Canberra,8840,Yarralumla,28189,BRODTMANN,Gai,1,Y,Y,ALP,Australian Labor Party,567,-3.5
+ACT,101,Canberra,8840,Yarralumla,28336,CAHILL,Patricia,2,N,N,GRN,The Greens,255,1.15
+ACT,101,Canberra,8840,Yarralumla,29373,BUCKNELL,Christopher D'Arcy,3,N,N,BTA,Bullet Train For Australia,62,0.05
+ACT,101,Canberra,8840,Yarralumla,28989,ADELAN-LANGFORD,Jessica,4,N,N,LP,Liberal,741,4.86
+ACT,101,Canberra,8840,Yarralumla,999,Informal,Informal,999,N,N,,Informal,31,-1.07
+ACT,102,Fenner,8801,Ainslie North,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1060,-3.84
+ACT,102,Fenner,8801,Ainslie North,28200,WOODMAN,Andrew,2,N,N,IND,Independent,61,2.7
+ACT,102,Fenner,8801,Ainslie North,28983,GUNNING,Robert,3,N,N,LP,Liberal,450,1.02
+ACT,102,Fenner,8801,Ainslie North,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,618,4.35
+ACT,102,Fenner,8801,Ainslie North,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,68,-0.39
+ACT,102,Fenner,8801,Ainslie North,999,Informal,Informal,999,N,N,,Informal,48,-1.44
+ACT,102,Fenner,38197,Amaroo,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1251,2.23
+ACT,102,Fenner,38197,Amaroo,28200,WOODMAN,Andrew,2,N,N,IND,Independent,119,4.37
+ACT,102,Fenner,38197,Amaroo,28983,GUNNING,Robert,3,N,N,LP,Liberal,991,-2.3
+ACT,102,Fenner,38197,Amaroo,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,271,1.09
+ACT,102,Fenner,38197,Amaroo,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,92,-0.08
+ACT,102,Fenner,38197,Amaroo,999,Informal,Informal,999,N,N,,Informal,94,0.18
+ACT,102,Fenner,8803,Aranda,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1146,-1.19
+ACT,102,Fenner,8803,Aranda,28200,WOODMAN,Andrew,2,N,N,IND,Independent,70,2.86
+ACT,102,Fenner,8803,Aranda,28983,GUNNING,Robert,3,N,N,LP,Liberal,597,1.89
+ACT,102,Fenner,8803,Aranda,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,549,0.7
+ACT,102,Fenner,8803,Aranda,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,85,0.12
+ACT,102,Fenner,8803,Aranda,999,Informal,Informal,999,N,N,,Informal,62,-0.44
+ACT,102,Fenner,8805,Belconnen,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1286,0.41
+ACT,102,Fenner,8805,Belconnen,28200,WOODMAN,Andrew,2,N,N,IND,Independent,128,4.57
+ACT,102,Fenner,8805,Belconnen,28983,GUNNING,Robert,3,N,N,LP,Liberal,756,1.37
+ACT,102,Fenner,8805,Belconnen,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,527,0.7
+ACT,102,Fenner,8805,Belconnen,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,102,-0.62
+ACT,102,Fenner,8805,Belconnen,999,Informal,Informal,999,N,N,,Informal,89,-1.52
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,7248,2.13
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,28200,WOODMAN,Andrew,2,N,N,IND,Independent,626,4.08
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,28983,GUNNING,Robert,3,N,N,LP,Liberal,5111,-0.05
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,1776,0.13
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,582,0.02
+ACT,102,Fenner,32464,Belconnen FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,458,-0.88
+ACT,102,Fenner,65505,BLV Fenner PPVC,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,16,21.89
+ACT,102,Fenner,65505,BLV Fenner PPVC,28200,WOODMAN,Andrew,2,N,N,IND,Independent,1,4.17
+ACT,102,Fenner,65505,BLV Fenner PPVC,28983,GUNNING,Robert,3,N,N,LP,Liberal,5,-10.34
+ACT,102,Fenner,65505,BLV Fenner PPVC,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,2,-0.53
+ACT,102,Fenner,65505,BLV Fenner PPVC,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,0,-2.79
+ACT,102,Fenner,65505,BLV Fenner PPVC,999,Informal,Informal,999,N,N,,Informal,0,-2.68
+ACT,102,Fenner,65695,Bonner,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1059,3.25
+ACT,102,Fenner,65695,Bonner,28200,WOODMAN,Andrew,2,N,N,IND,Independent,57,2.7
+ACT,102,Fenner,65695,Bonner,28983,GUNNING,Robert,3,N,N,LP,Liberal,727,0.64
+ACT,102,Fenner,65695,Bonner,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,204,-1.33
+ACT,102,Fenner,65695,Bonner,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,63,-0.92
+ACT,102,Fenner,65695,Bonner,999,Informal,Informal,999,N,N,,Informal,80,-0.76
+ACT,102,Fenner,66142,Braddon (Fenner),28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,650,-2.66
+ACT,102,Fenner,66142,Braddon (Fenner),28200,WOODMAN,Andrew,2,N,N,IND,Independent,34,2.33
+ACT,102,Fenner,66142,Braddon (Fenner),28983,GUNNING,Robert,3,N,N,LP,Liberal,320,-0.81
+ACT,102,Fenner,66142,Braddon (Fenner),28320,SAEEDI,Carly,4,N,N,GRN,The Greens,401,6.87
+ACT,102,Fenner,66142,Braddon (Fenner),29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,52,-1.65
+ACT,102,Fenner,66142,Braddon (Fenner),999,Informal,Informal,999,N,N,,Informal,23,-2.15
+ACT,102,Fenner,8807,Charnwood,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1243,0.04
+ACT,102,Fenner,8807,Charnwood,28200,WOODMAN,Andrew,2,N,N,IND,Independent,114,4.68
+ACT,102,Fenner,8807,Charnwood,28983,GUNNING,Robert,3,N,N,LP,Liberal,726,0.33
+ACT,102,Fenner,8807,Charnwood,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,273,0.97
+ACT,102,Fenner,8807,Charnwood,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,82,0.33
+ACT,102,Fenner,8807,Charnwood,999,Informal,Informal,999,N,N,,Informal,122,-1.55
+ACT,102,Fenner,66144,City (Fenner),28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,258,-1.21
+ACT,102,Fenner,66144,City (Fenner),28200,WOODMAN,Andrew,2,N,N,IND,Independent,15,2.44
+ACT,102,Fenner,66144,City (Fenner),28983,GUNNING,Robert,3,N,N,LP,Liberal,149,2.91
+ACT,102,Fenner,66144,City (Fenner),28320,SAEEDI,Carly,4,N,N,GRN,The Greens,167,0.91
+ACT,102,Fenner,66144,City (Fenner),29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,25,-1.23
+ACT,102,Fenner,66144,City (Fenner),999,Informal,Informal,999,N,N,,Informal,18,-0.66
+ACT,102,Fenner,32465,City FENNER PPVC,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,3217,-1.1
+ACT,102,Fenner,32465,City FENNER PPVC,28200,WOODMAN,Andrew,2,N,N,IND,Independent,208,2.85
+ACT,102,Fenner,32465,City FENNER PPVC,28983,GUNNING,Robert,3,N,N,LP,Liberal,2126,0.11
+ACT,102,Fenner,32465,City FENNER PPVC,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,1458,3.18
+ACT,102,Fenner,32465,City FENNER PPVC,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,295,-0.75
+ACT,102,Fenner,32465,City FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,156,-0.93
+ACT,102,Fenner,8809,Dickson,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,566,-3.36
+ACT,102,Fenner,8809,Dickson,28200,WOODMAN,Andrew,2,N,N,IND,Independent,40,3.13
+ACT,102,Fenner,8809,Dickson,28983,GUNNING,Robert,3,N,N,LP,Liberal,331,0.69
+ACT,102,Fenner,8809,Dickson,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,313,5.34
+ACT,102,Fenner,8809,Dickson,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,30,-1.5
+ACT,102,Fenner,8809,Dickson,999,Informal,Informal,999,N,N,,Informal,31,-1.28
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,110,1.96
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),28200,WOODMAN,Andrew,2,N,N,IND,Independent,7,2.99
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),28983,GUNNING,Robert,3,N,N,LP,Liberal,64,0.6
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),28320,SAEEDI,Carly,4,N,N,GRN,The Greens,42,-2.52
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,11,0.77
+ACT,102,Fenner,30093,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,2,-1.77
+ACT,102,Fenner,82525,Downer,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,683,-0.32
+ACT,102,Fenner,82525,Downer,28200,WOODMAN,Andrew,2,N,N,IND,Independent,40,2.76
+ACT,102,Fenner,82525,Downer,28983,GUNNING,Robert,3,N,N,LP,Liberal,294,-2.78
+ACT,102,Fenner,82525,Downer,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,372,4.87
+ACT,102,Fenner,82525,Downer,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,59,-0.29
+ACT,102,Fenner,82525,Downer,999,Informal,Informal,999,N,N,,Informal,56,0.05
+ACT,102,Fenner,8812,Evatt,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1506,-1.03
+ACT,102,Fenner,8812,Evatt,28200,WOODMAN,Andrew,2,N,N,IND,Independent,122,3.86
+ACT,102,Fenner,8812,Evatt,28983,GUNNING,Robert,3,N,N,LP,Liberal,1015,3.31
+ACT,102,Fenner,8812,Evatt,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,412,1.52
+ACT,102,Fenner,8812,Evatt,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,102,-0.54
+ACT,102,Fenner,8812,Evatt,999,Informal,Informal,999,N,N,,Informal,133,-1.05
+ACT,102,Fenner,8814,Florey,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,989,3.96
+ACT,102,Fenner,8814,Florey,28200,WOODMAN,Andrew,2,N,N,IND,Independent,71,3.65
+ACT,102,Fenner,8814,Florey,28983,GUNNING,Robert,3,N,N,LP,Liberal,582,-1.77
+ACT,102,Fenner,8814,Florey,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,228,0.95
+ACT,102,Fenner,8814,Florey,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,75,-0.32
+ACT,102,Fenner,8814,Florey,999,Informal,Informal,999,N,N,,Informal,75,-2.08
+ACT,102,Fenner,65493,Forde,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,644,0.77
+ACT,102,Fenner,65493,Forde,28200,WOODMAN,Andrew,2,N,N,IND,Independent,59,3.52
+ACT,102,Fenner,65493,Forde,28983,GUNNING,Robert,3,N,N,LP,Liberal,754,0.46
+ACT,102,Fenner,65493,Forde,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,156,0.1
+ACT,102,Fenner,65493,Forde,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,63,-0.14
+ACT,102,Fenner,65493,Forde,999,Informal,Informal,999,N,N,,Informal,32,-1.19
+ACT,102,Fenner,34238,Fraser Central,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1435,1.38
+ACT,102,Fenner,34238,Fraser Central,28200,WOODMAN,Andrew,2,N,N,IND,Independent,102,3.47
+ACT,102,Fenner,34238,Fraser Central,28983,GUNNING,Robert,3,N,N,LP,Liberal,922,0.94
+ACT,102,Fenner,34238,Fraser Central,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,366,1.56
+ACT,102,Fenner,34238,Fraser Central,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,111,-0.27
+ACT,102,Fenner,34238,Fraser Central,999,Informal,Informal,999,N,N,,Informal,99,-0.15
+ACT,102,Fenner,8816,Giralang,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,783,0.25
+ACT,102,Fenner,8816,Giralang,28200,WOODMAN,Andrew,2,N,N,IND,Independent,70,4.1
+ACT,102,Fenner,8816,Giralang,28983,GUNNING,Robert,3,N,N,LP,Liberal,503,0.88
+ACT,102,Fenner,8816,Giralang,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,280,2.97
+ACT,102,Fenner,8816,Giralang,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,70,-1.68
+ACT,102,Fenner,8816,Giralang,999,Informal,Informal,999,N,N,,Informal,67,-2.78
+ACT,102,Fenner,34240,Gungahlin,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1257,2.29
+ACT,102,Fenner,34240,Gungahlin,28200,WOODMAN,Andrew,2,N,N,IND,Independent,114,4
+ACT,102,Fenner,34240,Gungahlin,28983,GUNNING,Robert,3,N,N,LP,Liberal,1058,-0.55
+ACT,102,Fenner,34240,Gungahlin,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,333,1.23
+ACT,102,Fenner,34240,Gungahlin,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,86,-1.18
+ACT,102,Fenner,34240,Gungahlin,999,Informal,Informal,999,N,N,,Informal,103,-1.16
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,3556,2.64
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,28200,WOODMAN,Andrew,2,N,N,IND,Independent,336,4.04
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,28983,GUNNING,Robert,3,N,N,LP,Liberal,3457,-1.46
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,676,0.52
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,288,0.05
+ACT,102,Fenner,38504,Gungahlin FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,212,-1.06
+ACT,102,Fenner,47681,Harrison,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1490,3.81
+ACT,102,Fenner,47681,Harrison,28200,WOODMAN,Andrew,2,N,N,IND,Independent,109,3.26
+ACT,102,Fenner,47681,Harrison,28983,GUNNING,Robert,3,N,N,LP,Liberal,1245,-3.38
+ACT,102,Fenner,47681,Harrison,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,378,0.85
+ACT,102,Fenner,47681,Harrison,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,126,0.07
+ACT,102,Fenner,47681,Harrison,999,Informal,Informal,999,N,N,,Informal,78,-1.06
+ACT,102,Fenner,8821,Holt,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1441,0.66
+ACT,102,Fenner,8821,Holt,28200,WOODMAN,Andrew,2,N,N,IND,Independent,128,4.41
+ACT,102,Fenner,8821,Holt,28983,GUNNING,Robert,3,N,N,LP,Liberal,810,0.08
+ACT,102,Fenner,8821,Holt,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,400,2.05
+ACT,102,Fenner,8821,Holt,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,121,0.21
+ACT,102,Fenner,8821,Holt,999,Informal,Informal,999,N,N,,Informal,134,-0.07
+ACT,102,Fenner,8823,Kaleen,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1139,2.71
+ACT,102,Fenner,8823,Kaleen,28200,WOODMAN,Andrew,2,N,N,IND,Independent,84,3.56
+ACT,102,Fenner,8823,Kaleen,28983,GUNNING,Robert,3,N,N,LP,Liberal,751,-1.3
+ACT,102,Fenner,8823,Kaleen,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,295,1.35
+ACT,102,Fenner,8823,Kaleen,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,89,0.12
+ACT,102,Fenner,8823,Kaleen,999,Informal,Informal,999,N,N,,Informal,87,-1.78
+ACT,102,Fenner,8824,Kaleen South,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,785,2.08
+ACT,102,Fenner,8824,Kaleen South,28200,WOODMAN,Andrew,2,N,N,IND,Independent,61,3.61
+ACT,102,Fenner,8824,Kaleen South,28983,GUNNING,Robert,3,N,N,LP,Liberal,538,1.1
+ACT,102,Fenner,8824,Kaleen South,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,253,0.29
+ACT,102,Fenner,8824,Kaleen South,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,55,-0.06
+ACT,102,Fenner,8824,Kaleen South,999,Informal,Informal,999,N,N,,Informal,46,-2.24
+ACT,102,Fenner,8825,Latham,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,884,4.55
+ACT,102,Fenner,8825,Latham,28200,WOODMAN,Andrew,2,N,N,IND,Independent,89,5.11
+ACT,102,Fenner,8825,Latham,28983,GUNNING,Robert,3,N,N,LP,Liberal,473,-2.26
+ACT,102,Fenner,8825,Latham,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,218,-0.11
+ACT,102,Fenner,8825,Latham,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,76,0.26
+ACT,102,Fenner,8825,Latham,999,Informal,Informal,999,N,N,,Informal,58,-1.78
+ACT,102,Fenner,8826,Lyneham,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1429,-1.44
+ACT,102,Fenner,8826,Lyneham,28200,WOODMAN,Andrew,2,N,N,IND,Independent,87,2.72
+ACT,102,Fenner,8826,Lyneham,28983,GUNNING,Robert,3,N,N,LP,Liberal,695,0.69
+ACT,102,Fenner,8826,Lyneham,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,856,3.67
+ACT,102,Fenner,8826,Lyneham,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,133,-0.57
+ACT,102,Fenner,8826,Lyneham,999,Informal,Informal,999,N,N,,Informal,77,-1.47
+ACT,102,Fenner,8827,Macgregor,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1338,1.78
+ACT,102,Fenner,8827,Macgregor,28200,WOODMAN,Andrew,2,N,N,IND,Independent,118,4.46
+ACT,102,Fenner,8827,Macgregor,28983,GUNNING,Robert,3,N,N,LP,Liberal,749,0.52
+ACT,102,Fenner,8827,Macgregor,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,329,1.11
+ACT,102,Fenner,8827,Macgregor,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,109,-0.27
+ACT,102,Fenner,8827,Macgregor,999,Informal,Informal,999,N,N,,Informal,83,-0.96
+ACT,102,Fenner,8828,Macquarie,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,768,-2.41
+ACT,102,Fenner,8828,Macquarie,28200,WOODMAN,Andrew,2,N,N,IND,Independent,71,4.32
+ACT,102,Fenner,8828,Macquarie,28983,GUNNING,Robert,3,N,N,LP,Liberal,405,-0.2
+ACT,102,Fenner,8828,Macquarie,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,351,3.75
+ACT,102,Fenner,8828,Macquarie,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,48,-0.82
+ACT,102,Fenner,8828,Macquarie,999,Informal,Informal,999,N,N,,Informal,37,-1.52
+ACT,102,Fenner,8830,Melba,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1138,2.67
+ACT,102,Fenner,8830,Melba,28200,WOODMAN,Andrew,2,N,N,IND,Independent,91,3.92
+ACT,102,Fenner,8830,Melba,28983,GUNNING,Robert,3,N,N,LP,Liberal,654,-2.83
+ACT,102,Fenner,8830,Melba,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,356,2.03
+ACT,102,Fenner,8830,Melba,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,85,0.83
+ACT,102,Fenner,8830,Melba,999,Informal,Informal,999,N,N,,Informal,93,-0.23
+ACT,102,Fenner,32463,Ngunnawal,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1537,2.67
+ACT,102,Fenner,32463,Ngunnawal,28200,WOODMAN,Andrew,2,N,N,IND,Independent,146,4.51
+ACT,102,Fenner,32463,Ngunnawal,28983,GUNNING,Robert,3,N,N,LP,Liberal,971,-2.11
+ACT,102,Fenner,32463,Ngunnawal,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,454,1.97
+ACT,102,Fenner,32463,Ngunnawal,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,127,0.07
+ACT,102,Fenner,32463,Ngunnawal,999,Informal,Informal,999,N,N,,Informal,106,-2.05
+ACT,102,Fenner,32081,Nicholls,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1522,-0.87
+ACT,102,Fenner,32081,Nicholls,28200,WOODMAN,Andrew,2,N,N,IND,Independent,155,4.02
+ACT,102,Fenner,32081,Nicholls,28983,GUNNING,Robert,3,N,N,LP,Liberal,1701,0.56
+ACT,102,Fenner,32081,Nicholls,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,347,1.56
+ACT,102,Fenner,32081,Nicholls,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,135,0.18
+ACT,102,Fenner,32081,Nicholls,999,Informal,Informal,999,N,N,,Informal,102,-0.75
+ACT,102,Fenner,65840,Other Mobile Team 1,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,53,12.52
+ACT,102,Fenner,65840,Other Mobile Team 1,28200,WOODMAN,Andrew,2,N,N,IND,Independent,1,1.61
+ACT,102,Fenner,65840,Other Mobile Team 1,28983,GUNNING,Robert,3,N,N,LP,Liberal,5,-4.31
+ACT,102,Fenner,65840,Other Mobile Team 1,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,3,-4.95
+ACT,102,Fenner,65840,Other Mobile Team 1,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,0,-1.64
+ACT,102,Fenner,65840,Other Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,2,-1.38
+ACT,102,Fenner,8832,Page,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,870,2.84
+ACT,102,Fenner,8832,Page,28200,WOODMAN,Andrew,2,N,N,IND,Independent,80,4.43
+ACT,102,Fenner,8832,Page,28983,GUNNING,Robert,3,N,N,LP,Liberal,516,-1.69
+ACT,102,Fenner,8832,Page,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,277,2.7
+ACT,102,Fenner,8832,Page,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,63,-1
+ACT,102,Fenner,8832,Page,999,Informal,Informal,999,N,N,,Informal,52,-0.21
+ACT,102,Fenner,31626,Palmerston,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1257,0.58
+ACT,102,Fenner,31626,Palmerston,28200,WOODMAN,Andrew,2,N,N,IND,Independent,104,3.78
+ACT,102,Fenner,31626,Palmerston,28983,GUNNING,Robert,3,N,N,LP,Liberal,961,0.16
+ACT,102,Fenner,31626,Palmerston,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,323,1.38
+ACT,102,Fenner,31626,Palmerston,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,107,-0.31
+ACT,102,Fenner,31626,Palmerston,999,Informal,Informal,999,N,N,,Informal,105,0.12
+ACT,102,Fenner,65743,Parkes (Fenner),28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,654,-5.21
+ACT,102,Fenner,65743,Parkes (Fenner),28200,WOODMAN,Andrew,2,N,N,IND,Independent,61,4.02
+ACT,102,Fenner,65743,Parkes (Fenner),28983,GUNNING,Robert,3,N,N,LP,Liberal,333,-0.1
+ACT,102,Fenner,65743,Parkes (Fenner),28320,SAEEDI,Carly,4,N,N,GRN,The Greens,391,5.17
+ACT,102,Fenner,65743,Parkes (Fenner),29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,79,0.62
+ACT,102,Fenner,65743,Parkes (Fenner),999,Informal,Informal,999,N,N,,Informal,19,-1.23
+ACT,102,Fenner,8834,Scullin,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,612,0.7
+ACT,102,Fenner,8834,Scullin,28200,WOODMAN,Andrew,2,N,N,IND,Independent,56,4.56
+ACT,102,Fenner,8834,Scullin,28983,GUNNING,Robert,3,N,N,LP,Liberal,310,-1.59
+ACT,102,Fenner,8834,Scullin,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,201,2.27
+ACT,102,Fenner,8834,Scullin,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,50,0.86
+ACT,102,Fenner,8834,Scullin,999,Informal,Informal,999,N,N,,Informal,54,-1.98
+ACT,102,Fenner,32467,Special Hospital Team 1,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,190,2.49
+ACT,102,Fenner,32467,Special Hospital Team 1,28200,WOODMAN,Andrew,2,N,N,IND,Independent,9,2.25
+ACT,102,Fenner,32467,Special Hospital Team 1,28983,GUNNING,Robert,3,N,N,LP,Liberal,181,6.1
+ACT,102,Fenner,32467,Special Hospital Team 1,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,19,-4.57
+ACT,102,Fenner,32467,Special Hospital Team 1,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,1,-1.57
+ACT,102,Fenner,32467,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,9,-3.6
+ACT,102,Fenner,32468,Special Hospital Team 2,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,51,2.65
+ACT,102,Fenner,32468,Special Hospital Team 2,28200,WOODMAN,Andrew,2,N,N,IND,Independent,3,2.8
+ACT,102,Fenner,32468,Special Hospital Team 2,28983,GUNNING,Robert,3,N,N,LP,Liberal,50,7.58
+ACT,102,Fenner,32468,Special Hospital Team 2,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,3,-6.52
+ACT,102,Fenner,32468,Special Hospital Team 2,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,0,-1.82
+ACT,102,Fenner,32468,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,1,-4.87
+ACT,102,Fenner,82488,Special Hospital Team 3,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,80,4.99
+ACT,102,Fenner,82488,Special Hospital Team 3,28200,WOODMAN,Andrew,2,N,N,IND,Independent,12,7.5
+ACT,102,Fenner,82488,Special Hospital Team 3,28983,GUNNING,Robert,3,N,N,LP,Liberal,45,-11.02
+ACT,102,Fenner,82488,Special Hospital Team 3,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,16,0.68
+ACT,102,Fenner,82488,Special Hospital Team 3,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,7,2.56
+ACT,102,Fenner,82488,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,3,-3.96
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,268,3.54
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,28200,WOODMAN,Andrew,2,N,N,IND,Independent,22,3.96
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,28983,GUNNING,Robert,3,N,N,LP,Liberal,178,1.63
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,60,-0.58
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,27,-2.04
+ACT,102,Fenner,64585,Tuggeranong FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,22,0.47
+ACT,102,Fenner,8836,Turner (Fenner),28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,788,-0.25
+ACT,102,Fenner,8836,Turner (Fenner),28200,WOODMAN,Andrew,2,N,N,IND,Independent,45,2.61
+ACT,102,Fenner,8836,Turner (Fenner),28983,GUNNING,Robert,3,N,N,LP,Liberal,328,-0.84
+ACT,102,Fenner,8836,Turner (Fenner),28320,SAEEDI,Carly,4,N,N,GRN,The Greens,495,2.71
+ACT,102,Fenner,8836,Turner (Fenner),29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,66,-0.65
+ACT,102,Fenner,8836,Turner (Fenner),999,Informal,Informal,999,N,N,,Informal,24,-1.7
+ACT,102,Fenner,8837,Watson,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,1133,-2.95
+ACT,102,Fenner,8837,Watson,28200,WOODMAN,Andrew,2,N,N,IND,Independent,68,2.67
+ACT,102,Fenner,8837,Watson,28983,GUNNING,Robert,3,N,N,LP,Liberal,569,-0.4
+ACT,102,Fenner,8837,Watson,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,672,5.31
+ACT,102,Fenner,8837,Watson,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,103,-0.39
+ACT,102,Fenner,8837,Watson,999,Informal,Informal,999,N,N,,Informal,62,-1.29
+ACT,102,Fenner,8838,Weetangera,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,971,0.17
+ACT,102,Fenner,8838,Weetangera,28200,WOODMAN,Andrew,2,N,N,IND,Independent,63,3.04
+ACT,102,Fenner,8838,Weetangera,28983,GUNNING,Robert,3,N,N,LP,Liberal,672,-1.61
+ACT,102,Fenner,8838,Weetangera,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,300,1.92
+ACT,102,Fenner,8838,Weetangera,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,65,0.22
+ACT,102,Fenner,8838,Weetangera,999,Informal,Informal,999,N,N,,Informal,47,-0.77
+ACT,102,Fenner,64584,Woden FENNER PPVC,28190,LEIGH,Andrew Keith,1,Y,Y,ALP,Australian Labor Party,515,0.58
+ACT,102,Fenner,64584,Woden FENNER PPVC,28200,WOODMAN,Andrew,2,N,N,IND,Independent,34,2.92
+ACT,102,Fenner,64584,Woden FENNER PPVC,28983,GUNNING,Robert,3,N,N,LP,Liberal,398,3.24
+ACT,102,Fenner,64584,Woden FENNER PPVC,28320,SAEEDI,Carly,4,N,N,GRN,The Greens,171,0.32
+ACT,102,Fenner,64584,Woden FENNER PPVC,29372,BOHM,Tim,5,N,N,BTA,Bullet Train For Australia,45,-1.21
+ACT,102,Fenner,64584,Woden FENNER PPVC,999,Informal,Informal,999,N,N,,Informal,42,1.22

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1827033918</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Exe\Lab_3.d43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Lab_3.pbd</file>
+      <file>$PROJ_DIR$\LowPower.c</file>
+      <file>$TOOLKIT_DIR$\inc\in430.h</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\msp430fr5739.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\LowPower.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\LowPower.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\Lab_3.ulp</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.r43</file>
+      <file>$TOOLKIT_DIR$\config\linker\multiplier32.xcl</file>
+      <file>$TOOLKIT_DIR$\config\linker\lnk430fr5739.xcl</file>
+      <file>$TOOLKIT_DIR$\doc\infocenter\index.ENU.html</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ULP430</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>XLINK</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Lab_3.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 11 10 6 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\LowPower.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 5 3 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 4 5</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

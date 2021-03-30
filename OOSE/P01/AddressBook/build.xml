@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="AddressBook" basedir="." default="clean-build">
+    <property name="src.dir"       value="src"/>
+    <property name="resources.dir" value="resources"/>
+    <property name="build.dir"     value="build"/>
+    <property name="dist.dir"      value="dist"/>
+    <property name="main-class"    value="AddressBookApp"/>
+    
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+        <delete dir="${dist.dir}"/>
+    </target>
+    
+    <target name="compile">
+        <mkdir dir="${build.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${build.dir}" includeantruntime="false" />
+    </target>
+
+    <target name="jar" depends="compile">
+        <mkdir dir="${dist.dir}"/>
+        <jar destfile="${dist.dir}/${ant.project.name}.jar" basedir="${build.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="${main-class}"/>
+            </manifest>
+        </jar>
+        <copy todir="${dist.dir}">
+            <fileset dir="${resources.dir}"/>
+        </copy>
+    </target>
+    
+    <target name="run" depends="jar">
+        <java jar="${dist.dir}/${ant.project.name}.jar" fork="true"/>
+    </target>
+
+    <target name="clean-build" depends="clean,jar"/>
+</project>

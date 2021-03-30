@@ -1,0 +1,878 @@
+2016 Federal Election House of Representatives First Preferences By Candidate By Polling Place for NT [Event:20499 Phase:FinalResults Generated:2017-05-11T17:34:48 Cycle:a45ea4bc-bff6-48cb-94c5-1bbaae0c7c0d Created:2017-05-11T17:29:15 Environment:PROD Site:CANBERRA Server:TALLYROOM Version:10.5.84.43192]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+NT,306,Lingiari,8701,Alice Springs,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",33,2.69
+NT,306,Lingiari,8701,Alice Springs,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,445,2.44
+NT,306,Lingiari,8701,Alice Springs,24971,GOULD,Alfred,3,N,N,IND,Independent,16,-0.86
+NT,306,Lingiari,8701,Alice Springs,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,15,1.22
+NT,306,Lingiari,8701,Alice Springs,28016,EARLEY,Braedon,5,N,N,IND,Independent,15,1.22
+NT,306,Lingiari,8701,Alice Springs,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,50,2.79
+NT,306,Lingiari,8701,Alice Springs,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,8,-1.29
+NT,306,Lingiari,8701,Alice Springs,28555,HOAD,Rob,8,N,N,GRN,The Greens,221,4.55
+NT,306,Lingiari,8701,Alice Springs,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),422,-5.52
+NT,306,Lingiari,8701,Alice Springs,999,Informal,Informal,999,N,N,,Informal,66,-0.94
+NT,306,Lingiari,65681,Alice Springs PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",141,3.13
+NT,306,Lingiari,65681,Alice Springs PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1599,35.49
+NT,306,Lingiari,65681,Alice Springs PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,52,1.15
+NT,306,Lingiari,65681,Alice Springs PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,22,0.49
+NT,306,Lingiari,65681,Alice Springs PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,70,1.55
+NT,306,Lingiari,65681,Alice Springs PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,148,3.29
+NT,306,Lingiari,65681,Alice Springs PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,25,0.55
+NT,306,Lingiari,65681,Alice Springs PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,621,13.78
+NT,306,Lingiari,65681,Alice Springs PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),1827,40.55
+NT,306,Lingiari,65681,Alice Springs PPVC,999,Informal,Informal,999,N,N,,Informal,288,6.01
+NT,306,Lingiari,34264,Bees Creek,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",110,9.45
+NT,306,Lingiari,34264,Bees Creek,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,348,0.05
+NT,306,Lingiari,34264,Bees Creek,24971,GOULD,Alfred,3,N,N,IND,Independent,14,-0.09
+NT,306,Lingiari,34264,Bees Creek,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,11,0.95
+NT,306,Lingiari,34264,Bees Creek,28016,EARLEY,Braedon,5,N,N,IND,Independent,62,5.33
+NT,306,Lingiari,34264,Bees Creek,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,29,0.8
+NT,306,Lingiari,34264,Bees Creek,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,5,-0.62
+NT,306,Lingiari,34264,Bees Creek,28555,HOAD,Rob,8,N,N,GRN,The Greens,68,0.67
+NT,306,Lingiari,34264,Bees Creek,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),517,-7.41
+NT,306,Lingiari,34264,Bees Creek,999,Informal,Informal,999,N,N,,Informal,71,0.04
+NT,306,Lingiari,8706,Berry Springs,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",64,8.17
+NT,306,Lingiari,8706,Berry Springs,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,205,-3.53
+NT,306,Lingiari,8706,Berry Springs,24971,GOULD,Alfred,3,N,N,IND,Independent,12,-0.25
+NT,306,Lingiari,8706,Berry Springs,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,11,1.4
+NT,306,Lingiari,8706,Berry Springs,28016,EARLEY,Braedon,5,N,N,IND,Independent,116,14.81
+NT,306,Lingiari,8706,Berry Springs,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,30,2.43
+NT,306,Lingiari,8706,Berry Springs,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,10,-0.76
+NT,306,Lingiari,8706,Berry Springs,28555,HOAD,Rob,8,N,N,GRN,The Greens,47,-0.89
+NT,306,Lingiari,8706,Berry Springs,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),288,-12.86
+NT,306,Lingiari,8706,Berry Springs,999,Informal,Informal,999,N,N,,Informal,54,-0.32
+NT,306,Lingiari,65576,BLV Lingiari PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,-8.76
+NT,306,Lingiari,65576,BLV Lingiari PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,0,-0.48
+NT,306,Lingiari,65576,BLV Lingiari PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,65576,BLV Lingiari PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,0,-0.27
+NT,306,Lingiari,65576,BLV Lingiari PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-0.51
+NT,306,Lingiari,65576,BLV Lingiari PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,0,-2.42
+NT,306,Lingiari,65576,BLV Lingiari PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),0,-85.45
+NT,306,Lingiari,65576,BLV Lingiari PPVC,999,Informal,Informal,999,N,N,,Informal,0,-1.78
+NT,306,Lingiari,8707,Braitling,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",33,4.27
+NT,306,Lingiari,8707,Braitling,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,261,-0.15
+NT,306,Lingiari,8707,Braitling,24971,GOULD,Alfred,3,N,N,IND,Independent,9,-0.38
+NT,306,Lingiari,8707,Braitling,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,9,1.17
+NT,306,Lingiari,8707,Braitling,28016,EARLEY,Braedon,5,N,N,IND,Independent,13,1.68
+NT,306,Lingiari,8707,Braitling,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,18,1.14
+NT,306,Lingiari,8707,Braitling,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,3,-0.69
+NT,306,Lingiari,8707,Braitling,28555,HOAD,Rob,8,N,N,GRN,The Greens,123,7.23
+NT,306,Lingiari,8707,Braitling,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),303,-6.48
+NT,306,Lingiari,8707,Braitling,999,Informal,Informal,999,N,N,,Informal,49,-0.34
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",8,3.67
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,98,8.04
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,3,-0.62
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,9,4.13
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,5,2.29
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,6,1.75
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-2
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,21,2.54
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),68,-10.83
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,22,2.62
+NT,306,Lingiari,8886,Christmas Island,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",6,2.11
+NT,306,Lingiari,8886,Christmas Island,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,184,2.4
+NT,306,Lingiari,8886,Christmas Island,24971,GOULD,Alfred,3,N,N,IND,Independent,1,-0.23
+NT,306,Lingiari,8886,Christmas Island,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,1,0.35
+NT,306,Lingiari,8886,Christmas Island,28016,EARLEY,Braedon,5,N,N,IND,Independent,1,0.35
+NT,306,Lingiari,8886,Christmas Island,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,4,0.24
+NT,306,Lingiari,8886,Christmas Island,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-1.11
+NT,306,Lingiari,8886,Christmas Island,28555,HOAD,Rob,8,N,N,GRN,The Greens,21,-2.52
+NT,306,Lingiari,8886,Christmas Island,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),65,5.4
+NT,306,Lingiari,8886,Christmas Island,999,Informal,Informal,999,N,N,,Informal,18,-1.09
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,65580,Christmas Island INTERSTATE PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,34174,Christmas Island PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",1,0.79
+NT,306,Lingiari,34174,Christmas Island PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,70,-3.64
+NT,306,Lingiari,34174,Christmas Island PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,2,0.64
+NT,306,Lingiari,34174,Christmas Island PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,2,1.59
+NT,306,Lingiari,34174,Christmas Island PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,4,3.17
+NT,306,Lingiari,34174,Christmas Island PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,1,-0.15
+NT,306,Lingiari,34174,Christmas Island PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-0.02
+NT,306,Lingiari,34174,Christmas Island PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,10,4.11
+NT,306,Lingiari,34174,Christmas Island PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),36,-0.8
+NT,306,Lingiari,34174,Christmas Island PPVC,999,Informal,Informal,999,N,N,,Informal,6,3.56
+NT,306,Lingiari,65748,Coolalinga PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",224,10.91
+NT,306,Lingiari,65748,Coolalinga PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,596,1.73
+NT,306,Lingiari,65748,Coolalinga PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,23,-1.09
+NT,306,Lingiari,65748,Coolalinga PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,17,0.83
+NT,306,Lingiari,65748,Coolalinga PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,183,8.91
+NT,306,Lingiari,65748,Coolalinga PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,47,1.01
+NT,306,Lingiari,65748,Coolalinga PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,24,-0.93
+NT,306,Lingiari,65748,Coolalinga PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,94,0.6
+NT,306,Lingiari,65748,Coolalinga PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),846,-13.09
+NT,306,Lingiari,65748,Coolalinga PPVC,999,Informal,Informal,999,N,N,,Informal,120,1.81
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",25,4.74
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,206,3.77
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,4,-1.64
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,11,2.09
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,27,5.12
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,18,1.88
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,2,-2.19
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,48,1.8
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),186,-9.81
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,48,2.78
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",2,14.29
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2,-4.37
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),24971,GOULD,Alfred,3,N,N,IND,Independent,0,-5.65
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,2,14.29
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,0,-0.06
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-0.12
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),28555,HOAD,Rob,8,N,N,GRN,The Greens,1,6.57
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),7,-2.32
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,-0.43
+NT,306,Lingiari,8711,Gillen,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",47,3.64
+NT,306,Lingiari,8711,Gillen,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,489,5.22
+NT,306,Lingiari,8711,Gillen,24971,GOULD,Alfred,3,N,N,IND,Independent,16,-0.6
+NT,306,Lingiari,8711,Gillen,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,15,1.16
+NT,306,Lingiari,8711,Gillen,28016,EARLEY,Braedon,5,N,N,IND,Independent,32,2.48
+NT,306,Lingiari,8711,Gillen,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,36,1
+NT,306,Lingiari,8711,Gillen,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,5,-1.1
+NT,306,Lingiari,8711,Gillen,28555,HOAD,Rob,8,N,N,GRN,The Greens,135,2.09
+NT,306,Lingiari,8711,Gillen,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),516,-5.89
+NT,306,Lingiari,8711,Gillen,999,Informal,Informal,999,N,N,,Informal,90,0.11
+NT,306,Lingiari,8712,Home Island,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",47,22.6
+NT,306,Lingiari,8712,Home Island,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,139,-4.02
+NT,306,Lingiari,8712,Home Island,24971,GOULD,Alfred,3,N,N,IND,Independent,1,-0.02
+NT,306,Lingiari,8712,Home Island,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,1,0.48
+NT,306,Lingiari,8712,Home Island,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,8712,Home Island,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,4,0.91
+NT,306,Lingiari,8712,Home Island,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,3,-17.15
+NT,306,Lingiari,8712,Home Island,28555,HOAD,Rob,8,N,N,GRN,The Greens,1,-1.53
+NT,306,Lingiari,8712,Home Island,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),12,2.25
+NT,306,Lingiari,8712,Home Island,999,Informal,Informal,999,N,N,,Informal,9,-10.07
+NT,306,Lingiari,34176,Home Island PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",2,25
+NT,306,Lingiari,34176,Home Island PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,4,21.43
+NT,306,Lingiari,34176,Home Island PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,34176,Home Island PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34176,Home Island PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34176,Home Island PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,0,0
+NT,306,Lingiari,34176,Home Island PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,34176,Home Island PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,0,-42.86
+NT,306,Lingiari,34176,Home Island PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),2,10.71
+NT,306,Lingiari,34176,Home Island PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8713,Howard Springs,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",148,9.99
+NT,306,Lingiari,8713,Howard Springs,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,450,-0.3
+NT,306,Lingiari,8713,Howard Springs,24971,GOULD,Alfred,3,N,N,IND,Independent,15,-1.12
+NT,306,Lingiari,8713,Howard Springs,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,13,0.88
+NT,306,Lingiari,8713,Howard Springs,28016,EARLEY,Braedon,5,N,N,IND,Independent,77,5.2
+NT,306,Lingiari,8713,Howard Springs,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,32,0.15
+NT,306,Lingiari,8713,Howard Springs,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,10,-0.51
+NT,306,Lingiari,8713,Howard Springs,28555,HOAD,Rob,8,N,N,GRN,The Greens,88,0.38
+NT,306,Lingiari,8713,Howard Springs,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),649,-6.7
+NT,306,Lingiari,8713,Howard Springs,999,Informal,Informal,999,N,N,,Informal,93,0.16
+NT,306,Lingiari,8714,Humpty Doo,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",245,12.19
+NT,306,Lingiari,8714,Humpty Doo,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,601,-2.31
+NT,306,Lingiari,8714,Humpty Doo,24971,GOULD,Alfred,3,N,N,IND,Independent,27,-0.9
+NT,306,Lingiari,8714,Humpty Doo,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,9,0.45
+NT,306,Lingiari,8714,Humpty Doo,28016,EARLEY,Braedon,5,N,N,IND,Independent,147,7.31
+NT,306,Lingiari,8714,Humpty Doo,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,89,2.85
+NT,306,Lingiari,8714,Humpty Doo,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,25,-0.3
+NT,306,Lingiari,8714,Humpty Doo,28555,HOAD,Rob,8,N,N,GRN,The Greens,119,1.31
+NT,306,Lingiari,8714,Humpty Doo,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),748,-12.67
+NT,306,Lingiari,8714,Humpty Doo,999,Informal,Informal,999,N,N,,Informal,133,-0.2
+NT,306,Lingiari,8715,Jabiru,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",16,8.38
+NT,306,Lingiari,8715,Jabiru,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,79,3.51
+NT,306,Lingiari,8715,Jabiru,24971,GOULD,Alfred,3,N,N,IND,Independent,2,-0.19
+NT,306,Lingiari,8715,Jabiru,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,3,1.57
+NT,306,Lingiari,8715,Jabiru,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,8715,Jabiru,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,6,2.32
+NT,306,Lingiari,8715,Jabiru,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-1.65
+NT,306,Lingiari,8715,Jabiru,28555,HOAD,Rob,8,N,N,GRN,The Greens,24,1.46
+NT,306,Lingiari,8715,Jabiru,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),61,-6.75
+NT,306,Lingiari,8715,Jabiru,999,Informal,Informal,999,N,N,,Informal,12,0.46
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,65757,Jabiru INTERSTATE PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,34178,Jabiru PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",12,9.52
+NT,306,Lingiari,34178,Jabiru PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,64,-9.49
+NT,306,Lingiari,34178,Jabiru PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,1,-0.3
+NT,306,Lingiari,34178,Jabiru PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,5,3.97
+NT,306,Lingiari,34178,Jabiru PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,1,0.79
+NT,306,Lingiari,34178,Jabiru PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,1,0.25
+NT,306,Lingiari,34178,Jabiru PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-1.63
+NT,306,Lingiari,34178,Jabiru PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,10,3.04
+NT,306,Lingiari,34178,Jabiru PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),32,-0.72
+NT,306,Lingiari,34178,Jabiru PPVC,999,Informal,Informal,999,N,N,,Informal,13,3.23
+NT,306,Lingiari,8717,Katherine,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",88,10.09
+NT,306,Lingiari,8717,Katherine,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,266,-3.26
+NT,306,Lingiari,8717,Katherine,24971,GOULD,Alfred,3,N,N,IND,Independent,8,-0.44
+NT,306,Lingiari,8717,Katherine,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,4,0.46
+NT,306,Lingiari,8717,Katherine,28016,EARLEY,Braedon,5,N,N,IND,Independent,129,14.79
+NT,306,Lingiari,8717,Katherine,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,31,1.02
+NT,306,Lingiari,8717,Katherine,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,5,-1.74
+NT,306,Lingiari,8717,Katherine,28555,HOAD,Rob,8,N,N,GRN,The Greens,66,1.16
+NT,306,Lingiari,8717,Katherine,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),275,-15.76
+NT,306,Lingiari,8717,Katherine,999,Informal,Informal,999,N,N,,Informal,58,0.44
+NT,306,Lingiari,12068,Katherine East,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",43,6.85
+NT,306,Lingiari,12068,Katherine East,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,250,-2.27
+NT,306,Lingiari,12068,Katherine East,24971,GOULD,Alfred,3,N,N,IND,Independent,3,-1.6
+NT,306,Lingiari,12068,Katherine East,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,4,0.64
+NT,306,Lingiari,12068,Katherine East,28016,EARLEY,Braedon,5,N,N,IND,Independent,70,11.15
+NT,306,Lingiari,12068,Katherine East,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,13,-0.01
+NT,306,Lingiari,12068,Katherine East,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,4,-0.11
+NT,306,Lingiari,12068,Katherine East,28555,HOAD,Rob,8,N,N,GRN,The Greens,50,4.07
+NT,306,Lingiari,12068,Katherine East,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),191,-11.26
+NT,306,Lingiari,12068,Katherine East,999,Informal,Informal,999,N,N,,Informal,37,-0.85
+NT,306,Lingiari,34179,Katherine PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",149,7.74
+NT,306,Lingiari,34179,Katherine PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,620,0.95
+NT,306,Lingiari,34179,Katherine PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,10,-1.4
+NT,306,Lingiari,34179,Katherine PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,27,1.4
+NT,306,Lingiari,34179,Katherine PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,223,11.59
+NT,306,Lingiari,34179,Katherine PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,66,2.24
+NT,306,Lingiari,34179,Katherine PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,10,-0.81
+NT,306,Lingiari,34179,Katherine PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,125,1.36
+NT,306,Lingiari,34179,Katherine PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),694,-17.75
+NT,306,Lingiari,34179,Katherine PPVC,999,Informal,Informal,999,N,N,,Informal,117,1.1
+NT,306,Lingiari,12069,Larapinta,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",26,4.41
+NT,306,Lingiari,12069,Larapinta,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,217,3.7
+NT,306,Lingiari,12069,Larapinta,24971,GOULD,Alfred,3,N,N,IND,Independent,5,-0.6
+NT,306,Lingiari,12069,Larapinta,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,6,1.02
+NT,306,Lingiari,12069,Larapinta,28016,EARLEY,Braedon,5,N,N,IND,Independent,6,1.02
+NT,306,Lingiari,12069,Larapinta,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,17,1.26
+NT,306,Lingiari,12069,Larapinta,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,3,-0.75
+NT,306,Lingiari,12069,Larapinta,28555,HOAD,Rob,8,N,N,GRN,The Greens,90,5.97
+NT,306,Lingiari,12069,Larapinta,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),220,-7.14
+NT,306,Lingiari,12069,Larapinta,999,Informal,Informal,999,N,N,,Informal,48,1.71
+NT,306,Lingiari,8723,Nhulunbuy,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",41,5.94
+NT,306,Lingiari,8723,Nhulunbuy,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,344,-0.61
+NT,306,Lingiari,8723,Nhulunbuy,24971,GOULD,Alfred,3,N,N,IND,Independent,1,-1.42
+NT,306,Lingiari,8723,Nhulunbuy,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,61,8.84
+NT,306,Lingiari,8723,Nhulunbuy,28016,EARLEY,Braedon,5,N,N,IND,Independent,8,1.16
+NT,306,Lingiari,8723,Nhulunbuy,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,13,0.66
+NT,306,Lingiari,8723,Nhulunbuy,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-0.98
+NT,306,Lingiari,8723,Nhulunbuy,28555,HOAD,Rob,8,N,N,GRN,The Greens,46,-0.12
+NT,306,Lingiari,8723,Nhulunbuy,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),175,-5.81
+NT,306,Lingiari,8723,Nhulunbuy,999,Informal,Informal,999,N,N,,Informal,27,-2.87
+NT,306,Lingiari,34181,Nhulunbuy PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",33,10.28
+NT,306,Lingiari,34181,Nhulunbuy PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,150,-7.41
+NT,306,Lingiari,34181,Nhulunbuy PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,3,-1.01
+NT,306,Lingiari,34181,Nhulunbuy PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,30,9.35
+NT,306,Lingiari,34181,Nhulunbuy PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,5,1.56
+NT,306,Lingiari,34181,Nhulunbuy PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,8,1.78
+NT,306,Lingiari,34181,Nhulunbuy PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-4.04
+NT,306,Lingiari,34181,Nhulunbuy PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,18,-0.94
+NT,306,Lingiari,34181,Nhulunbuy PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),74,-4.6
+NT,306,Lingiari,34181,Nhulunbuy PPVC,999,Informal,Informal,999,N,N,,Informal,23,-0.96
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",45,8.65
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,154,1.44
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,11,0.01
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,6,1.15
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,27,5.19
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,14,0.49
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,8,-0.67
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,18,-0.31
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),237,-5.74
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,50,0.5
+NT,306,Lingiari,34147,Remote Mobile Team 1,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",84,6.77
+NT,306,Lingiari,34147,Remote Mobile Team 1,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,821,15.89
+NT,306,Lingiari,34147,Remote Mobile Team 1,24971,GOULD,Alfred,3,N,N,IND,Independent,16,0.13
+NT,306,Lingiari,34147,Remote Mobile Team 1,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,41,3.31
+NT,306,Lingiari,34147,Remote Mobile Team 1,28016,EARLEY,Braedon,5,N,N,IND,Independent,3,0.24
+NT,306,Lingiari,34147,Remote Mobile Team 1,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,38,0.45
+NT,306,Lingiari,34147,Remote Mobile Team 1,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,5,-6.78
+NT,306,Lingiari,34147,Remote Mobile Team 1,28555,HOAD,Rob,8,N,N,GRN,The Greens,19,-5.49
+NT,306,Lingiari,34147,Remote Mobile Team 1,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),213,-8.67
+NT,306,Lingiari,34147,Remote Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,135,-0.4
+NT,306,Lingiari,34156,Remote Mobile Team 10,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",29,3.89
+NT,306,Lingiari,34156,Remote Mobile Team 10,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,508,17.78
+NT,306,Lingiari,34156,Remote Mobile Team 10,24971,GOULD,Alfred,3,N,N,IND,Independent,12,0.45
+NT,306,Lingiari,34156,Remote Mobile Team 10,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,8,1.07
+NT,306,Lingiari,34156,Remote Mobile Team 10,28016,EARLEY,Braedon,5,N,N,IND,Independent,7,0.94
+NT,306,Lingiari,34156,Remote Mobile Team 10,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,45,3.42
+NT,306,Lingiari,34156,Remote Mobile Team 10,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,3,-6.78
+NT,306,Lingiari,34156,Remote Mobile Team 10,28555,HOAD,Rob,8,N,N,GRN,The Greens,23,-3.94
+NT,306,Lingiari,34156,Remote Mobile Team 10,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),111,-10.97
+NT,306,Lingiari,34156,Remote Mobile Team 10,999,Informal,Informal,999,N,N,,Informal,70,-1.64
+NT,306,Lingiari,34157,Remote Mobile Team 11,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",37,5.85
+NT,306,Lingiari,34157,Remote Mobile Team 11,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,295,-3.72
+NT,306,Lingiari,34157,Remote Mobile Team 11,24971,GOULD,Alfred,3,N,N,IND,Independent,3,-0.69
+NT,306,Lingiari,34157,Remote Mobile Team 11,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,6,0.95
+NT,306,Lingiari,34157,Remote Mobile Team 11,28016,EARLEY,Braedon,5,N,N,IND,Independent,4,0.63
+NT,306,Lingiari,34157,Remote Mobile Team 11,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,41,3.87
+NT,306,Lingiari,34157,Remote Mobile Team 11,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,4,-6.55
+NT,306,Lingiari,34157,Remote Mobile Team 11,28555,HOAD,Rob,8,N,N,GRN,The Greens,7,-5.91
+NT,306,Lingiari,34157,Remote Mobile Team 11,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),236,11.43
+NT,306,Lingiari,34157,Remote Mobile Team 11,999,Informal,Informal,999,N,N,,Informal,72,-0.01
+NT,306,Lingiari,34158,Remote Mobile Team 12,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",29,6.3
+NT,306,Lingiari,34158,Remote Mobile Team 12,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,255,5.11
+NT,306,Lingiari,34158,Remote Mobile Team 12,24971,GOULD,Alfred,3,N,N,IND,Independent,3,-0.51
+NT,306,Lingiari,34158,Remote Mobile Team 12,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,2,0.43
+NT,306,Lingiari,34158,Remote Mobile Team 12,28016,EARLEY,Braedon,5,N,N,IND,Independent,3,0.65
+NT,306,Lingiari,34158,Remote Mobile Team 12,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,19,1.52
+NT,306,Lingiari,34158,Remote Mobile Team 12,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-6.96
+NT,306,Lingiari,34158,Remote Mobile Team 12,28555,HOAD,Rob,8,N,N,GRN,The Greens,7,-5.5
+NT,306,Lingiari,34158,Remote Mobile Team 12,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),141,4.8
+NT,306,Lingiari,34158,Remote Mobile Team 12,999,Informal,Informal,999,N,N,,Informal,43,-1.67
+NT,306,Lingiari,34159,Remote Mobile Team 13,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",41,7.07
+NT,306,Lingiari,34159,Remote Mobile Team 13,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,286,-1.01
+NT,306,Lingiari,34159,Remote Mobile Team 13,24971,GOULD,Alfred,3,N,N,IND,Independent,2,-0.82
+NT,306,Lingiari,34159,Remote Mobile Team 13,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,10,1.72
+NT,306,Lingiari,34159,Remote Mobile Team 13,28016,EARLEY,Braedon,5,N,N,IND,Independent,3,0.52
+NT,306,Lingiari,34159,Remote Mobile Team 13,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,34,3.25
+NT,306,Lingiari,34159,Remote Mobile Team 13,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,4,-6.49
+NT,306,Lingiari,34159,Remote Mobile Team 13,28555,HOAD,Rob,8,N,N,GRN,The Greens,57,2.81
+NT,306,Lingiari,34159,Remote Mobile Team 13,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),143,-1.19
+NT,306,Lingiari,34159,Remote Mobile Team 13,999,Informal,Informal,999,N,N,,Informal,51,-2.14
+NT,306,Lingiari,34160,Remote Mobile Team 14,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",64,4.84
+NT,306,Lingiari,34160,Remote Mobile Team 14,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,528,-10.38
+NT,306,Lingiari,34160,Remote Mobile Team 14,24971,GOULD,Alfred,3,N,N,IND,Independent,19,0.28
+NT,306,Lingiari,34160,Remote Mobile Team 14,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,9,0.68
+NT,306,Lingiari,34160,Remote Mobile Team 14,28016,EARLEY,Braedon,5,N,N,IND,Independent,16,1.21
+NT,306,Lingiari,34160,Remote Mobile Team 14,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,38,0.26
+NT,306,Lingiari,34160,Remote Mobile Team 14,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,7,-6.65
+NT,306,Lingiari,34160,Remote Mobile Team 14,28555,HOAD,Rob,8,N,N,GRN,The Greens,127,2.59
+NT,306,Lingiari,34160,Remote Mobile Team 14,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),514,13.03
+NT,306,Lingiari,34160,Remote Mobile Team 14,999,Informal,Informal,999,N,N,,Informal,113,-2.35
+NT,306,Lingiari,34161,Remote Mobile Team 15,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",64,8.77
+NT,306,Lingiari,34161,Remote Mobile Team 15,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,474,14.61
+NT,306,Lingiari,34161,Remote Mobile Team 15,24971,GOULD,Alfred,3,N,N,IND,Independent,5,-0.48
+NT,306,Lingiari,34161,Remote Mobile Team 15,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,10,1.37
+NT,306,Lingiari,34161,Remote Mobile Team 15,28016,EARLEY,Braedon,5,N,N,IND,Independent,8,1.1
+NT,306,Lingiari,34161,Remote Mobile Team 15,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,16,-0.42
+NT,306,Lingiari,34161,Remote Mobile Team 15,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,3,-6.77
+NT,306,Lingiari,34161,Remote Mobile Team 15,28555,HOAD,Rob,8,N,N,GRN,The Greens,8,-5.92
+NT,306,Lingiari,34161,Remote Mobile Team 15,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),142,-6.4
+NT,306,Lingiari,34161,Remote Mobile Team 15,999,Informal,Informal,999,N,N,,Informal,84,0.1
+NT,306,Lingiari,34162,Remote Mobile Team 16,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",29,7.55
+NT,306,Lingiari,34162,Remote Mobile Team 16,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,137,-14.64
+NT,306,Lingiari,34162,Remote Mobile Team 16,24971,GOULD,Alfred,3,N,N,IND,Independent,5,0.14
+NT,306,Lingiari,34162,Remote Mobile Team 16,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,7,1.82
+NT,306,Lingiari,34162,Remote Mobile Team 16,28016,EARLEY,Braedon,5,N,N,IND,Independent,4,1.04
+NT,306,Lingiari,34162,Remote Mobile Team 16,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,10,-0.01
+NT,306,Lingiari,34162,Remote Mobile Team 16,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,4,-6.14
+NT,306,Lingiari,34162,Remote Mobile Team 16,28555,HOAD,Rob,8,N,N,GRN,The Greens,59,8.34
+NT,306,Lingiari,34162,Remote Mobile Team 16,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),129,7.74
+NT,306,Lingiari,34162,Remote Mobile Team 16,999,Informal,Informal,999,N,N,,Informal,36,-1.65
+NT,306,Lingiari,34163,Remote Mobile Team 17,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",9,2.08
+NT,306,Lingiari,34163,Remote Mobile Team 17,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,278,13.88
+NT,306,Lingiari,34163,Remote Mobile Team 17,24971,GOULD,Alfred,3,N,N,IND,Independent,3,-0.47
+NT,306,Lingiari,34163,Remote Mobile Team 17,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,5,1.15
+NT,306,Lingiari,34163,Remote Mobile Team 17,28016,EARLEY,Braedon,5,N,N,IND,Independent,1,0.23
+NT,306,Lingiari,34163,Remote Mobile Team 17,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,19,1.78
+NT,306,Lingiari,34163,Remote Mobile Team 17,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-6.95
+NT,306,Lingiari,34163,Remote Mobile Team 17,28555,HOAD,Rob,8,N,N,GRN,The Greens,22,-1.94
+NT,306,Lingiari,34163,Remote Mobile Team 17,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),95,-3.91
+NT,306,Lingiari,34163,Remote Mobile Team 17,999,Informal,Informal,999,N,N,,Informal,39,-1.96
+NT,306,Lingiari,82791,Remote Mobile Team 18,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",0,0
+NT,306,Lingiari,82791,Remote Mobile Team 18,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,3,-0.32
+NT,306,Lingiari,82791,Remote Mobile Team 18,24971,GOULD,Alfred,3,N,N,IND,Independent,0,-1.16
+NT,306,Lingiari,82791,Remote Mobile Team 18,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,82791,Remote Mobile Team 18,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,82791,Remote Mobile Team 18,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,1,14.06
+NT,306,Lingiari,82791,Remote Mobile Team 18,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-7.18
+NT,306,Lingiari,82791,Remote Mobile Team 18,28555,HOAD,Rob,8,N,N,GRN,The Greens,0,-7.02
+NT,306,Lingiari,82791,Remote Mobile Team 18,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),2,7.48
+NT,306,Lingiari,82791,Remote Mobile Team 18,999,Informal,Informal,999,N,N,,Informal,1,4.07
+NT,306,Lingiari,34148,Remote Mobile Team 2,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",161,14.25
+NT,306,Lingiari,34148,Remote Mobile Team 2,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,683,10.12
+NT,306,Lingiari,34148,Remote Mobile Team 2,24971,GOULD,Alfred,3,N,N,IND,Independent,8,-0.45
+NT,306,Lingiari,34148,Remote Mobile Team 2,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,38,3.36
+NT,306,Lingiari,34148,Remote Mobile Team 2,28016,EARLEY,Braedon,5,N,N,IND,Independent,53,4.69
+NT,306,Lingiari,34148,Remote Mobile Team 2,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,52,1.99
+NT,306,Lingiari,34148,Remote Mobile Team 2,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,11,-6.21
+NT,306,Lingiari,34148,Remote Mobile Team 2,28555,HOAD,Rob,8,N,N,GRN,The Greens,23,-4.98
+NT,306,Lingiari,34148,Remote Mobile Team 2,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),101,-16.91
+NT,306,Lingiari,34148,Remote Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,234,6.94
+NT,306,Lingiari,34149,Remote Mobile Team 3,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",44,7.76
+NT,306,Lingiari,34149,Remote Mobile Team 3,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,162,-21.75
+NT,306,Lingiari,34149,Remote Mobile Team 3,24971,GOULD,Alfred,3,N,N,IND,Independent,4,-0.45
+NT,306,Lingiari,34149,Remote Mobile Team 3,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,142,25.04
+NT,306,Lingiari,34149,Remote Mobile Team 3,28016,EARLEY,Braedon,5,N,N,IND,Independent,32,5.64
+NT,306,Lingiari,34149,Remote Mobile Team 3,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,5,-1.73
+NT,306,Lingiari,34149,Remote Mobile Team 3,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-7.18
+NT,306,Lingiari,34149,Remote Mobile Team 3,28555,HOAD,Rob,8,N,N,GRN,The Greens,22,-3.14
+NT,306,Lingiari,34149,Remote Mobile Team 3,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),156,1.66
+NT,306,Lingiari,34149,Remote Mobile Team 3,999,Informal,Informal,999,N,N,,Informal,82,2.41
+NT,306,Lingiari,34150,Remote Mobile Team 4,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",75,8.96
+NT,306,Lingiari,34150,Remote Mobile Team 4,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,388,-3.96
+NT,306,Lingiari,34150,Remote Mobile Team 4,24971,GOULD,Alfred,3,N,N,IND,Independent,2,-0.92
+NT,306,Lingiari,34150,Remote Mobile Team 4,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,38,4.54
+NT,306,Lingiari,34150,Remote Mobile Team 4,28016,EARLEY,Braedon,5,N,N,IND,Independent,34,4.06
+NT,306,Lingiari,34150,Remote Mobile Team 4,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,37,1.81
+NT,306,Lingiari,34150,Remote Mobile Team 4,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,8,-6.22
+NT,306,Lingiari,34150,Remote Mobile Team 4,28555,HOAD,Rob,8,N,N,GRN,The Greens,54,-0.57
+NT,306,Lingiari,34150,Remote Mobile Team 4,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),201,-1.84
+NT,306,Lingiari,34150,Remote Mobile Team 4,999,Informal,Informal,999,N,N,,Informal,110,1.4
+NT,306,Lingiari,34151,Remote Mobile Team 5,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",105,8.56
+NT,306,Lingiari,34151,Remote Mobile Team 5,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,173,-36.21
+NT,306,Lingiari,34151,Remote Mobile Team 5,24971,GOULD,Alfred,3,N,N,IND,Independent,7,-0.59
+NT,306,Lingiari,34151,Remote Mobile Team 5,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,759,61.91
+NT,306,Lingiari,34151,Remote Mobile Team 5,28016,EARLEY,Braedon,5,N,N,IND,Independent,4,0.33
+NT,306,Lingiari,34151,Remote Mobile Team 5,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,25,-0.57
+NT,306,Lingiari,34151,Remote Mobile Team 5,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-7.1
+NT,306,Lingiari,34151,Remote Mobile Team 5,28555,HOAD,Rob,8,N,N,GRN,The Greens,8,-6.37
+NT,306,Lingiari,34151,Remote Mobile Team 5,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),144,-14.1
+NT,306,Lingiari,34151,Remote Mobile Team 5,999,Informal,Informal,999,N,N,,Informal,212,4.52
+NT,306,Lingiari,34152,Remote Mobile Team 6,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",72,9.41
+NT,306,Lingiari,34152,Remote Mobile Team 6,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,255,-16.99
+NT,306,Lingiari,34152,Remote Mobile Team 6,24971,GOULD,Alfred,3,N,N,IND,Independent,6,-0.38
+NT,306,Lingiari,34152,Remote Mobile Team 6,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,240,31.37
+NT,306,Lingiari,34152,Remote Mobile Team 6,28016,EARLEY,Braedon,5,N,N,IND,Independent,3,0.39
+NT,306,Lingiari,34152,Remote Mobile Team 6,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,33,1.7
+NT,306,Lingiari,34152,Remote Mobile Team 6,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,3,-6.79
+NT,306,Lingiari,34152,Remote Mobile Team 6,28555,HOAD,Rob,8,N,N,GRN,The Greens,17,-4.8
+NT,306,Lingiari,34152,Remote Mobile Team 6,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),136,-8.07
+NT,306,Lingiari,34152,Remote Mobile Team 6,999,Informal,Informal,999,N,N,,Informal,170,7.96
+NT,306,Lingiari,34153,Remote Mobile Team 7,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",85,7.65
+NT,306,Lingiari,34153,Remote Mobile Team 7,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,657,8.82
+NT,306,Lingiari,34153,Remote Mobile Team 7,24971,GOULD,Alfred,3,N,N,IND,Independent,13,0.01
+NT,306,Lingiari,34153,Remote Mobile Team 7,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,61,5.49
+NT,306,Lingiari,34153,Remote Mobile Team 7,28016,EARLEY,Braedon,5,N,N,IND,Independent,22,1.98
+NT,306,Lingiari,34153,Remote Mobile Team 7,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,70,3.69
+NT,306,Lingiari,34153,Remote Mobile Team 7,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,7,-6.55
+NT,306,Lingiari,34153,Remote Mobile Team 7,28555,HOAD,Rob,8,N,N,GRN,The Greens,25,-4.77
+NT,306,Lingiari,34153,Remote Mobile Team 7,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),171,-10.46
+NT,306,Lingiari,34153,Remote Mobile Team 7,999,Informal,Informal,999,N,N,,Informal,171,3.12
+NT,306,Lingiari,34154,Remote Mobile Team 8,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",50,6.05
+NT,306,Lingiari,34154,Remote Mobile Team 8,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,327,-10.73
+NT,306,Lingiari,34154,Remote Mobile Team 8,24971,GOULD,Alfred,3,N,N,IND,Independent,0,-1.16
+NT,306,Lingiari,34154,Remote Mobile Team 8,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,18,2.18
+NT,306,Lingiari,34154,Remote Mobile Team 8,28016,EARLEY,Braedon,5,N,N,IND,Independent,182,22.03
+NT,306,Lingiari,34154,Remote Mobile Team 8,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,54,3.93
+NT,306,Lingiari,34154,Remote Mobile Team 8,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,2,-6.94
+NT,306,Lingiari,34154,Remote Mobile Team 8,28555,HOAD,Rob,8,N,N,GRN,The Greens,21,-4.48
+NT,306,Lingiari,34154,Remote Mobile Team 8,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),172,-5.03
+NT,306,Lingiari,34154,Remote Mobile Team 8,999,Informal,Informal,999,N,N,,Informal,115,2
+NT,306,Lingiari,34155,Remote Mobile Team 9,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",39,4.97
+NT,306,Lingiari,34155,Remote Mobile Team 9,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,551,19.96
+NT,306,Lingiari,34155,Remote Mobile Team 9,24971,GOULD,Alfred,3,N,N,IND,Independent,2,-0.9
+NT,306,Lingiari,34155,Remote Mobile Team 9,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,10,1.28
+NT,306,Lingiari,34155,Remote Mobile Team 9,28016,EARLEY,Braedon,5,N,N,IND,Independent,23,2.93
+NT,306,Lingiari,34155,Remote Mobile Team 9,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,26,0.71
+NT,306,Lingiari,34155,Remote Mobile Team 9,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,2,-6.92
+NT,306,Lingiari,34155,Remote Mobile Team 9,28555,HOAD,Rob,8,N,N,GRN,The Greens,16,-4.98
+NT,306,Lingiari,34155,Remote Mobile Team 9,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),115,-11.18
+NT,306,Lingiari,34155,Remote Mobile Team 9,999,Informal,Informal,999,N,N,,Informal,83,-0.65
+NT,306,Lingiari,8731,Sadadeen,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",31,3.65
+NT,306,Lingiari,8731,Sadadeen,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,370,6.8
+NT,306,Lingiari,8731,Sadadeen,24971,GOULD,Alfred,3,N,N,IND,Independent,9,-0.47
+NT,306,Lingiari,8731,Sadadeen,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,6,0.71
+NT,306,Lingiari,8731,Sadadeen,28016,EARLEY,Braedon,5,N,N,IND,Independent,7,0.82
+NT,306,Lingiari,8731,Sadadeen,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,25,1.54
+NT,306,Lingiari,8731,Sadadeen,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,3,-1
+NT,306,Lingiari,8731,Sadadeen,28555,HOAD,Rob,8,N,N,GRN,The Greens,156,5.57
+NT,306,Lingiari,8731,Sadadeen,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),242,-9.08
+NT,306,Lingiari,8731,Sadadeen,999,Informal,Informal,999,N,N,,Informal,40,-0.92
+NT,306,Lingiari,8733,Tennant Creek,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",18,3.21
+NT,306,Lingiari,8733,Tennant Creek,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,288,14.71
+NT,306,Lingiari,8733,Tennant Creek,24971,GOULD,Alfred,3,N,N,IND,Independent,3,-0.73
+NT,306,Lingiari,8733,Tennant Creek,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,12,2.14
+NT,306,Lingiari,8733,Tennant Creek,28016,EARLEY,Braedon,5,N,N,IND,Independent,8,1.43
+NT,306,Lingiari,8733,Tennant Creek,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,26,2.75
+NT,306,Lingiari,8733,Tennant Creek,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-2.01
+NT,306,Lingiari,8733,Tennant Creek,28555,HOAD,Rob,8,N,N,GRN,The Greens,34,-7.35
+NT,306,Lingiari,8733,Tennant Creek,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),170,-4.6
+NT,306,Lingiari,8733,Tennant Creek,999,Informal,Informal,999,N,N,,Informal,45,-1.24
+NT,306,Lingiari,34183,Tennant Creek PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",24,4.4
+NT,306,Lingiari,34183,Tennant Creek PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,323,14.94
+NT,306,Lingiari,34183,Tennant Creek PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,8,0.07
+NT,306,Lingiari,34183,Tennant Creek PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,5,0.92
+NT,306,Lingiari,34183,Tennant Creek PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,9,1.65
+NT,306,Lingiari,34183,Tennant Creek PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,31,3.69
+NT,306,Lingiari,34183,Tennant Creek PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-2.73
+NT,306,Lingiari,34183,Tennant Creek PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,19,-14.28
+NT,306,Lingiari,34183,Tennant Creek PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),125,-4.33
+NT,306,Lingiari,34183,Tennant Creek PPVC,999,Informal,Informal,999,N,N,,Informal,27,-6.02
+NT,306,Lingiari,8888,Tindal,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",27,12.74
+NT,306,Lingiari,8888,Tindal,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,36,0.63
+NT,306,Lingiari,8888,Tindal,24971,GOULD,Alfred,3,N,N,IND,Independent,2,-0.65
+NT,306,Lingiari,8888,Tindal,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,2,0.94
+NT,306,Lingiari,8888,Tindal,28016,EARLEY,Braedon,5,N,N,IND,Independent,25,11.79
+NT,306,Lingiari,8888,Tindal,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,7,-0.28
+NT,306,Lingiari,8888,Tindal,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,2,-0.65
+NT,306,Lingiari,8888,Tindal,28555,HOAD,Rob,8,N,N,GRN,The Greens,12,-0.72
+NT,306,Lingiari,8888,Tindal,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),99,-14.64
+NT,306,Lingiari,8888,Tindal,999,Informal,Informal,999,N,N,,Informal,10,1.41
+NT,306,Lingiari,65142,Wagait Beach,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",12,6.15
+NT,306,Lingiari,65142,Wagait Beach,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,72,-5.64
+NT,306,Lingiari,65142,Wagait Beach,24971,GOULD,Alfred,3,N,N,IND,Independent,0,-1.03
+NT,306,Lingiari,65142,Wagait Beach,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,3,1.54
+NT,306,Lingiari,65142,Wagait Beach,28016,EARLEY,Braedon,5,N,N,IND,Independent,8,4.1
+NT,306,Lingiari,65142,Wagait Beach,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,7,1.54
+NT,306,Lingiari,65142,Wagait Beach,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,2,-1.02
+NT,306,Lingiari,65142,Wagait Beach,28555,HOAD,Rob,8,N,N,GRN,The Greens,38,10.26
+NT,306,Lingiari,65142,Wagait Beach,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),53,-6.67
+NT,306,Lingiari,65142,Wagait Beach,999,Informal,Informal,999,N,N,,Informal,9,0.94
+NT,306,Lingiari,8736,West Island,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",4,7.14
+NT,306,Lingiari,8736,West Island,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,32,-4.62
+NT,306,Lingiari,8736,West Island,24971,GOULD,Alfred,3,N,N,IND,Independent,1,0.32
+NT,306,Lingiari,8736,West Island,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,1,1.79
+NT,306,Lingiari,8736,West Island,28016,EARLEY,Braedon,5,N,N,IND,Independent,1,1.79
+NT,306,Lingiari,8736,West Island,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,0,0
+NT,306,Lingiari,8736,West Island,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,-4.41
+NT,306,Lingiari,8736,West Island,28555,HOAD,Rob,8,N,N,GRN,The Greens,7,6.62
+NT,306,Lingiari,8736,West Island,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),10,-4.2
+NT,306,Lingiari,8736,West Island,999,Informal,Informal,999,N,N,,Informal,7,5.55
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,24971,GOULD,Alfred,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,28016,EARLEY,Braedon,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,28555,HOAD,Rob,8,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,65577,West Island INTERSTATE PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8710,Yirara,28849,RIGHTON,Chris,1,N,N,ASP,"Shooters, Fishers and Farmers",4,1.63
+NT,306,Lingiari,8710,Yirara,28735,SNOWDON,Warren,2,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,64,-3.17
+NT,306,Lingiari,8710,Yirara,24971,GOULD,Alfred,3,N,N,IND,Independent,5,-0.08
+NT,306,Lingiari,8710,Yirara,29433,GUYULA,Yingiya Mark,4,N,N,IND,Independent,8,3.27
+NT,306,Lingiari,8710,Yirara,28016,EARLEY,Braedon,5,N,N,IND,Independent,3,1.22
+NT,306,Lingiari,8710,Yirara,28561,McCARTHY,Regina,6,N,N,RUA,Rise Up Australia Party,9,2.4
+NT,306,Lingiari,8710,Yirara,28006,FLYNN,Peter,7,N,N,CEC,Citizens Electoral Council,1,-0.77
+NT,306,Lingiari,8710,Yirara,28555,HOAD,Rob,8,N,N,GRN,The Greens,28,1.15
+NT,306,Lingiari,8710,Yirara,28827,MacFARLANE,Tina,9,N,N,CLP,Country Liberals (NT),123,1.68
+NT,306,Lingiari,8710,Yirara,999,Informal,Informal,999,N,N,,Informal,13,-2.33
+NT,307,Solomon,8703,Anula,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,117,2.03
+NT,307,Solomon,8703,Anula,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,12,0.94
+NT,307,Solomon,8703,Anula,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),407,-8.54
+NT,307,Solomon,8703,Anula,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,21,1.65
+NT,307,Solomon,8703,Anula,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,29,2.27
+NT,307,Solomon,8703,Anula,28015,GARNER,Mark,6,N,N,IND,Independent,35,2.74
+NT,307,Solomon,8703,Anula,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,13,0.58
+NT,307,Solomon,8703,Anula,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",17,1.33
+NT,307,Solomon,8703,Anula,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,614,5.53
+NT,307,Solomon,8703,Anula,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,6,0.22
+NT,307,Solomon,8703,Anula,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),5,0.39
+NT,307,Solomon,8703,Anula,999,Informal,Informal,999,N,N,,Informal,98,2.46
+NT,307,Solomon,33137,Bakewell,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,153,1.64
+NT,307,Solomon,33137,Bakewell,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,34,1.36
+NT,307,Solomon,33137,Bakewell,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),705,-20.53
+NT,307,Solomon,33137,Bakewell,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,58,2.31
+NT,307,Solomon,33137,Bakewell,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,51,2.04
+NT,307,Solomon,33137,Bakewell,28015,GARNER,Mark,6,N,N,IND,Independent,66,2.63
+NT,307,Solomon,33137,Bakewell,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,56,1.62
+NT,307,Solomon,33137,Bakewell,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",178,7.1
+NT,307,Solomon,33137,Bakewell,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1192,13.81
+NT,307,Solomon,33137,Bakewell,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,7,0.1
+NT,307,Solomon,33137,Bakewell,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),6,0.24
+NT,307,Solomon,33137,Bakewell,999,Informal,Informal,999,N,N,,Informal,194,1.37
+NT,307,Solomon,8705,Berrimah,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,35,4.37
+NT,307,Solomon,8705,Berrimah,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,10,2.17
+NT,307,Solomon,8705,Berrimah,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),214,-11.34
+NT,307,Solomon,8705,Berrimah,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,14,3.04
+NT,307,Solomon,8705,Berrimah,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,9,1.96
+NT,307,Solomon,8705,Berrimah,28015,GARNER,Mark,6,N,N,IND,Independent,12,2.61
+NT,307,Solomon,8705,Berrimah,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,16,1.45
+NT,307,Solomon,8705,Berrimah,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",15,3.26
+NT,307,Solomon,8705,Berrimah,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,135,4.08
+NT,307,Solomon,8705,Berrimah,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,0,-0.54
+NT,307,Solomon,8705,Berrimah,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),0,0
+NT,307,Solomon,8705,Berrimah,999,Informal,Informal,999,N,N,,Informal,46,4.41
+NT,307,Solomon,65623,BLV Solomon PPVC,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,0,-19.75
+NT,307,Solomon,65623,BLV Solomon PPVC,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),0,-20.48
+NT,307,Solomon,65623,BLV Solomon PPVC,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,28015,GARNER,Mark,6,N,N,IND,Independent,0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,0,-0.03
+NT,307,Solomon,65623,BLV Solomon PPVC,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,0,-59.43
+NT,307,Solomon,65623,BLV Solomon PPVC,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,0,-0.02
+NT,307,Solomon,65623,BLV Solomon PPVC,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),0,0
+NT,307,Solomon,65623,BLV Solomon PPVC,999,Informal,Informal,999,N,N,,Informal,0,-0.17
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,451,4.84
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,45,1.12
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),1320,-10.84
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,61,1.52
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,71,1.77
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28015,GARNER,Mark,6,N,N,IND,Independent,164,4.08
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,41,0.06
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",82,2.04
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1740,3.78
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,18,0.21
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),26,0.65
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,269,0.34
+NT,307,Solomon,8709,Darwin,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,189,0.61
+NT,307,Solomon,8709,Darwin,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,25,1.38
+NT,307,Solomon,8709,Darwin,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),692,-7.75
+NT,307,Solomon,8709,Darwin,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,47,2.59
+NT,307,Solomon,8709,Darwin,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,39,2.15
+NT,307,Solomon,8709,Darwin,28015,GARNER,Mark,6,N,N,IND,Independent,50,2.76
+NT,307,Solomon,8709,Darwin,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,25,0.76
+NT,307,Solomon,8709,Darwin,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",31,1.71
+NT,307,Solomon,8709,Darwin,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,704,4.92
+NT,307,Solomon,8709,Darwin,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,2,0.09
+NT,307,Solomon,8709,Darwin,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),10,0.55
+NT,307,Solomon,8709,Darwin,999,Informal,Informal,999,N,N,,Informal,129,2.84
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,438,1.22
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,44,0.97
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),1928,-7.33
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,91,2
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,73,1.61
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28015,GARNER,Mark,6,N,N,IND,Independent,136,2.99
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,46,0.38
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",87,1.92
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1648,4.23
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,15,-0.04
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),35,0.77
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,223,0.51
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,11,2.6
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28229,KEARNEY,John,2,N,N,AFN,Australia First Party,4,4.17
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),26,-10.84
+NT,307,Solomon,34135,Divisional Office (PREPOLL),29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,4,4.17
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,2,2.08
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28015,GARNER,Mark,6,N,N,IND,Independent,5,5.21
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,0,-1.91
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",3,3.13
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,41,6.02
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,0,-2.76
+NT,307,Solomon,34135,Divisional Office (PREPOLL),28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),0,0
+NT,307,Solomon,34135,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,9,5.34
+NT,307,Solomon,8725,Driver,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,152,3.23
+NT,307,Solomon,8725,Driver,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,34,1.71
+NT,307,Solomon,8725,Driver,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),631,-14.42
+NT,307,Solomon,8725,Driver,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,27,1.36
+NT,307,Solomon,8725,Driver,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,61,3.06
+NT,307,Solomon,8725,Driver,28015,GARNER,Mark,6,N,N,IND,Independent,60,3.01
+NT,307,Solomon,8725,Driver,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,49,1.41
+NT,307,Solomon,8725,Driver,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",76,3.82
+NT,307,Solomon,8725,Driver,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,873,9.43
+NT,307,Solomon,8725,Driver,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,13,0.16
+NT,307,Solomon,8725,Driver,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),16,0.8
+NT,307,Solomon,8725,Driver,999,Informal,Informal,999,N,N,,Informal,167,1.04
+NT,307,Solomon,32595,Durack,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,88,1.56
+NT,307,Solomon,32595,Durack,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,26,1.76
+NT,307,Solomon,32595,Durack,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),575,-15.5
+NT,307,Solomon,32595,Durack,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,27,1.82
+NT,307,Solomon,32595,Durack,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,33,2.23
+NT,307,Solomon,32595,Durack,28015,GARNER,Mark,6,N,N,IND,Independent,48,3.24
+NT,307,Solomon,32595,Durack,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,51,2.52
+NT,307,Solomon,32595,Durack,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",55,3.71
+NT,307,Solomon,32595,Durack,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,565,11.08
+NT,307,Solomon,32595,Durack,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,7,0.01
+NT,307,Solomon,32595,Durack,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),6,0.41
+NT,307,Solomon,32595,Durack,999,Informal,Informal,999,N,N,,Informal,114,1.38
+NT,307,Solomon,8887,Gray,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,97,3.28
+NT,307,Solomon,8887,Gray,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,24,2.09
+NT,307,Solomon,8887,Gray,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),312,-15.46
+NT,307,Solomon,8887,Gray,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,29,2.52
+NT,307,Solomon,8887,Gray,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,41,3.57
+NT,307,Solomon,8887,Gray,28015,GARNER,Mark,6,N,N,IND,Independent,29,2.52
+NT,307,Solomon,8887,Gray,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,26,0.82
+NT,307,Solomon,8887,Gray,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",34,2.96
+NT,307,Solomon,8887,Gray,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,543,10.6
+NT,307,Solomon,8887,Gray,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,6,0.06
+NT,307,Solomon,8887,Gray,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),9,0.78
+NT,307,Solomon,8887,Gray,999,Informal,Informal,999,N,N,,Informal,118,2.37
+NT,307,Solomon,8716,Karama,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,200,3.22
+NT,307,Solomon,8716,Karama,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,38,1.56
+NT,307,Solomon,8716,Karama,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),632,-11.35
+NT,307,Solomon,8716,Karama,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,25,1.02
+NT,307,Solomon,8716,Karama,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,56,2.3
+NT,307,Solomon,8716,Karama,28015,GARNER,Mark,6,N,N,IND,Independent,67,2.75
+NT,307,Solomon,8716,Karama,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,75,1.95
+NT,307,Solomon,8716,Karama,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",88,3.61
+NT,307,Solomon,8716,Karama,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1234,3.23
+NT,307,Solomon,8716,Karama,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,6,-0.27
+NT,307,Solomon,8716,Karama,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),19,0.78
+NT,307,Solomon,8716,Karama,999,Informal,Informal,999,N,N,,Informal,259,2.75
+NT,307,Solomon,8718,Larrakeyah,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,96,3.44
+NT,307,Solomon,8718,Larrakeyah,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,9,0.95
+NT,307,Solomon,8718,Larrakeyah,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),485,-6.67
+NT,307,Solomon,8718,Larrakeyah,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,24,2.54
+NT,307,Solomon,8718,Larrakeyah,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,15,1.59
+NT,307,Solomon,8718,Larrakeyah,28015,GARNER,Mark,6,N,N,IND,Independent,21,2.22
+NT,307,Solomon,8718,Larrakeyah,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,23,2.05
+NT,307,Solomon,8718,Larrakeyah,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",14,1.48
+NT,307,Solomon,8718,Larrakeyah,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,254,-1.44
+NT,307,Solomon,8718,Larrakeyah,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,2,0.11
+NT,307,Solomon,8718,Larrakeyah,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),3,0.32
+NT,307,Solomon,8718,Larrakeyah,999,Informal,Informal,999,N,N,,Informal,58,1.63
+NT,307,Solomon,8719,Leanyer,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,154,1
+NT,307,Solomon,8719,Leanyer,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,20,1.02
+NT,307,Solomon,8719,Leanyer,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),682,-7.33
+NT,307,Solomon,8719,Leanyer,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,33,1.69
+NT,307,Solomon,8719,Leanyer,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,34,1.74
+NT,307,Solomon,8719,Leanyer,28015,GARNER,Mark,6,N,N,IND,Independent,56,2.86
+NT,307,Solomon,8719,Leanyer,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,43,1.17
+NT,307,Solomon,8719,Leanyer,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",50,2.55
+NT,307,Solomon,8719,Leanyer,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,873,5.03
+NT,307,Solomon,8719,Leanyer,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,6,-0.13
+NT,307,Solomon,8719,Leanyer,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),7,0.36
+NT,307,Solomon,8719,Leanyer,999,Informal,Informal,999,N,N,,Informal,180,2.7
+NT,307,Solomon,8720,Ludmilla,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,105,1.18
+NT,307,Solomon,8720,Ludmilla,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,13,1.3
+NT,307,Solomon,8720,Ludmilla,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),337,-10.02
+NT,307,Solomon,8720,Ludmilla,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,16,1.6
+NT,307,Solomon,8720,Ludmilla,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,28,2.81
+NT,307,Solomon,8720,Ludmilla,28015,GARNER,Mark,6,N,N,IND,Independent,49,4.91
+NT,307,Solomon,8720,Ludmilla,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,15,0.26
+NT,307,Solomon,8720,Ludmilla,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",21,2.1
+NT,307,Solomon,8720,Ludmilla,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,405,5.86
+NT,307,Solomon,8720,Ludmilla,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,2,0.05
+NT,307,Solomon,8720,Ludmilla,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),7,0.7
+NT,307,Solomon,8720,Ludmilla,999,Informal,Informal,999,N,N,,Informal,71,1.72
+NT,307,Solomon,38314,Malak,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,116,-0.41
+NT,307,Solomon,38314,Malak,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,18,1.23
+NT,307,Solomon,38314,Malak,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),460,-7.14
+NT,307,Solomon,38314,Malak,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,15,1.02
+NT,307,Solomon,38314,Malak,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,24,1.64
+NT,307,Solomon,38314,Malak,28015,GARNER,Mark,6,N,N,IND,Independent,40,2.73
+NT,307,Solomon,38314,Malak,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,33,0.88
+NT,307,Solomon,38314,Malak,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",25,1.7
+NT,307,Solomon,38314,Malak,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,721,8.09
+NT,307,Solomon,38314,Malak,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,3,-0.08
+NT,307,Solomon,38314,Malak,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),12,0.82
+NT,307,Solomon,38314,Malak,999,Informal,Informal,999,N,N,,Informal,137,2.38
+NT,307,Solomon,8721,Moil,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,198,0.84
+NT,307,Solomon,8721,Moil,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,27,1.63
+NT,307,Solomon,8721,Moil,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),464,-5.74
+NT,307,Solomon,8721,Moil,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,30,1.81
+NT,307,Solomon,8721,Moil,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,22,1.33
+NT,307,Solomon,8721,Moil,28015,GARNER,Mark,6,N,N,IND,Independent,53,3.19
+NT,307,Solomon,8721,Moil,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,41,1.53
+NT,307,Solomon,8721,Moil,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",32,1.93
+NT,307,Solomon,8721,Moil,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,773,2.27
+NT,307,Solomon,8721,Moil,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,10,0.21
+NT,307,Solomon,8721,Moil,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),9,0.54
+NT,307,Solomon,8721,Moil,999,Informal,Informal,999,N,N,,Informal,176,3.45
+NT,307,Solomon,8722,Nakara,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,254,1.57
+NT,307,Solomon,8722,Nakara,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,18,0.86
+NT,307,Solomon,8722,Nakara,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),662,-5.18
+NT,307,Solomon,8722,Nakara,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,27,1.28
+NT,307,Solomon,8722,Nakara,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,32,1.52
+NT,307,Solomon,8722,Nakara,28015,GARNER,Mark,6,N,N,IND,Independent,52,2.47
+NT,307,Solomon,8722,Nakara,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,38,-0.12
+NT,307,Solomon,8722,Nakara,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",17,0.81
+NT,307,Solomon,8722,Nakara,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,984,3.35
+NT,307,Solomon,8722,Nakara,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,5,-0.17
+NT,307,Solomon,8722,Nakara,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),15,0.71
+NT,307,Solomon,8722,Nakara,999,Informal,Informal,999,N,N,,Informal,147,0.93
+NT,307,Solomon,8724,Nightcliff,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,526,3.14
+NT,307,Solomon,8724,Nightcliff,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,25,0.9
+NT,307,Solomon,8724,Nightcliff,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),828,-6.75
+NT,307,Solomon,8724,Nightcliff,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,38,1.37
+NT,307,Solomon,8724,Nightcliff,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,58,2.09
+NT,307,Solomon,8724,Nightcliff,28015,GARNER,Mark,6,N,N,IND,Independent,79,2.84
+NT,307,Solomon,8724,Nightcliff,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,27,0.33
+NT,307,Solomon,8724,Nightcliff,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",35,1.26
+NT,307,Solomon,8724,Nightcliff,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1133,3.08
+NT,307,Solomon,8724,Nightcliff,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,5,0.03
+NT,307,Solomon,8724,Nightcliff,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),23,0.83
+NT,307,Solomon,8724,Nightcliff,999,Informal,Informal,999,N,N,,Informal,222,2.17
+NT,307,Solomon,65152,Other Mobile Team 1,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,2,15.03
+NT,307,Solomon,65152,Other Mobile Team 1,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,0,0
+NT,307,Solomon,65152,Other Mobile Team 1,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),1,-17.89
+NT,307,Solomon,65152,Other Mobile Team 1,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,1,7.69
+NT,307,Solomon,65152,Other Mobile Team 1,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,1,7.69
+NT,307,Solomon,65152,Other Mobile Team 1,28015,GARNER,Mark,6,N,N,IND,Independent,0,0
+NT,307,Solomon,65152,Other Mobile Team 1,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,0,-0.05
+NT,307,Solomon,65152,Other Mobile Team 1,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",1,7.69
+NT,307,Solomon,65152,Other Mobile Team 1,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,7,4.25
+NT,307,Solomon,65152,Other Mobile Team 1,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,0,-0.03
+NT,307,Solomon,65152,Other Mobile Team 1,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),0,0
+NT,307,Solomon,65152,Other Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,1,-25.31
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,192,2.62
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,67,2.14
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),1182,-12.34
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,60,1.91
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,65,2.07
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28015,GARNER,Mark,6,N,N,IND,Independent,136,4.34
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,55,0.86
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",115,3.67
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1225,8.76
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,16,-0.11
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),22,0.7
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,249,1.42
+NT,307,Solomon,8726,Parap,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,337,1.26
+NT,307,Solomon,8726,Parap,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,22,0.81
+NT,307,Solomon,8726,Parap,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),1117,-6.02
+NT,307,Solomon,8726,Parap,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,51,1.88
+NT,307,Solomon,8726,Parap,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,45,1.66
+NT,307,Solomon,8726,Parap,28015,GARNER,Mark,6,N,N,IND,Independent,84,3.09
+NT,307,Solomon,8726,Parap,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,39,0.81
+NT,307,Solomon,8726,Parap,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",49,1.8
+NT,307,Solomon,8726,Parap,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,949,2.44
+NT,307,Solomon,8726,Parap,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,8,0.09
+NT,307,Solomon,8726,Parap,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),18,0.66
+NT,307,Solomon,8726,Parap,999,Informal,Informal,999,N,N,,Informal,142,0.2
+NT,307,Solomon,8729,Rapid Creek,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,197,3.66
+NT,307,Solomon,8729,Rapid Creek,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,11,0.94
+NT,307,Solomon,8729,Rapid Creek,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),337,-8.16
+NT,307,Solomon,8729,Rapid Creek,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,16,1.37
+NT,307,Solomon,8729,Rapid Creek,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,19,1.62
+NT,307,Solomon,8729,Rapid Creek,28015,GARNER,Mark,6,N,N,IND,Independent,28,2.39
+NT,307,Solomon,8729,Rapid Creek,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,12,-0.2
+NT,307,Solomon,8729,Rapid Creek,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",17,1.45
+NT,307,Solomon,8729,Rapid Creek,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,524,4.82
+NT,307,Solomon,8729,Rapid Creek,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,2,-0.24
+NT,307,Solomon,8729,Rapid Creek,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),9,0.77
+NT,307,Solomon,8729,Rapid Creek,999,Informal,Informal,999,N,N,,Informal,107,2.81
+NT,307,Solomon,65151,Rosebery,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,106,2.64
+NT,307,Solomon,65151,Rosebery,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,38,2.1
+NT,307,Solomon,65151,Rosebery,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),600,-18.53
+NT,307,Solomon,65151,Rosebery,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,35,1.93
+NT,307,Solomon,65151,Rosebery,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,42,2.32
+NT,307,Solomon,65151,Rosebery,28015,GARNER,Mark,6,N,N,IND,Independent,54,2.98
+NT,307,Solomon,65151,Rosebery,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,58,1.7
+NT,307,Solomon,65151,Rosebery,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",41,2.26
+NT,307,Solomon,65151,Rosebery,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,814,14.96
+NT,307,Solomon,65151,Rosebery,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,11,0.08
+NT,307,Solomon,65151,Rosebery,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),12,0.66
+NT,307,Solomon,65151,Rosebery,999,Informal,Informal,999,N,N,,Informal,174,3.37
+NT,307,Solomon,34131,Special Hospital Team 1,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,22,0.27
+NT,307,Solomon,34131,Special Hospital Team 1,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,3,1.19
+NT,307,Solomon,34131,Special Hospital Team 1,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),94,-1.05
+NT,307,Solomon,34131,Special Hospital Team 1,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,6,2.37
+NT,307,Solomon,34131,Special Hospital Team 1,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,3,1.19
+NT,307,Solomon,34131,Special Hospital Team 1,28015,GARNER,Mark,6,N,N,IND,Independent,0,0
+NT,307,Solomon,34131,Special Hospital Team 1,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,3,0.15
+NT,307,Solomon,34131,Special Hospital Team 1,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",1,0.4
+NT,307,Solomon,34131,Special Hospital Team 1,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,119,5.14
+NT,307,Solomon,34131,Special Hospital Team 1,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,2,0.4
+NT,307,Solomon,34131,Special Hospital Team 1,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),0,0
+NT,307,Solomon,34131,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,24,-1.72
+NT,307,Solomon,8732,Stuart Park,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,161,2.46
+NT,307,Solomon,8732,Stuart Park,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,12,0.81
+NT,307,Solomon,8732,Stuart Park,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),580,-7.8
+NT,307,Solomon,8732,Stuart Park,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,24,1.61
+NT,307,Solomon,8732,Stuart Park,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,26,1.75
+NT,307,Solomon,8732,Stuart Park,28015,GARNER,Mark,6,N,N,IND,Independent,40,2.69
+NT,307,Solomon,8732,Stuart Park,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,24,1.01
+NT,307,Solomon,8732,Stuart Park,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",22,1.48
+NT,307,Solomon,8732,Stuart Park,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,590,4.33
+NT,307,Solomon,8732,Stuart Park,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,0,-0.27
+NT,307,Solomon,8732,Stuart Park,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),9,0.6
+NT,307,Solomon,8732,Stuart Park,999,Informal,Informal,999,N,N,,Informal,94,1.36
+NT,307,Solomon,8734,Wanguri,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,167,1.91
+NT,307,Solomon,8734,Wanguri,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,21,1.04
+NT,307,Solomon,8734,Wanguri,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),617,-9.87
+NT,307,Solomon,8734,Wanguri,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,28,1.39
+NT,307,Solomon,8734,Wanguri,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,41,2.04
+NT,307,Solomon,8734,Wanguri,28015,GARNER,Mark,6,N,N,IND,Independent,49,2.44
+NT,307,Solomon,8734,Wanguri,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,41,1.3
+NT,307,Solomon,8734,Wanguri,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",30,1.49
+NT,307,Solomon,8734,Wanguri,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1001,7.47
+NT,307,Solomon,8734,Wanguri,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,8,0.02
+NT,307,Solomon,8734,Wanguri,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),9,0.45
+NT,307,Solomon,8734,Wanguri,999,Informal,Informal,999,N,N,,Informal,150,1.62
+NT,307,Solomon,32593,Woodroffe,28553,WILLIAMS,Todd,1,N,N,GRN,The Greens,56,3.73
+NT,307,Solomon,32593,Woodroffe,28229,KEARNEY,John,2,N,N,AFN,Australia First Party,2,0.32
+NT,307,Solomon,32593,Woodroffe,28830,GRIGGS,Natasha,3,N,Y,CLP,Country Liberals (NT),192,-14.41
+NT,307,Solomon,32593,Woodroffe,29532,DAWES,Robert,4,N,N,LDP,Liberal Democrats,15,2.4
+NT,307,Solomon,32593,Woodroffe,28138,LAWRENCE,Lance,5,N,N,HMP,Marijuana (HEMP) Party,20,3.19
+NT,307,Solomon,32593,Woodroffe,28015,GARNER,Mark,6,N,N,IND,Independent,21,3.35
+NT,307,Solomon,32593,Woodroffe,28562,MAJETIC,Silvija,7,N,N,RUA,Rise Up Australia Party,10,0.33
+NT,307,Solomon,32593,Woodroffe,28844,REINHOLD,Marty,8,N,N,ASP,"Shooters, Fishers and Farmers",21,3.35
+NT,307,Solomon,32593,Woodroffe,28737,GOSLING,Luke,9,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,286,12.3
+NT,307,Solomon,32593,Woodroffe,28013,McCULLOUGH,Brigid,10,N,N,CEC,Citizens Electoral Council,0,-0.64
+NT,307,Solomon,32593,Woodroffe,28014,CARTWRIGHT,Nevin,11,N,N,SOL,Online Direct Democracy - (Empowering the People!),3,0.48
+NT,307,Solomon,32593,Woodroffe,999,Informal,Informal,999,N,N,,Informal,84,6.21

@@ -1,0 +1,66 @@
+Q1)
+a) places a break point at the start of the deleteBook funciton
+b) it will run the program and pause at the start of the function deleteBook
+c) prints the content of the array books
+d) prints the first value of the array books
+e) places a watch point to pause the program when the integer book is equal to the ith element of the array books
+f) continues running the program and will pause if the watch point is met (book = books[i])
+g) execute the next line // numBooks - -;
+h) execute the next line // while (i < * numBooks - 1)
+i) finish running the program without pausing at all
+
+Q2)
+a)
+HYPOTHESIS 1: the function getBorrower() is causing the segmentation fault: might be because the funciton is attempting to access memory
+outside of the int array blist
+
+HYPOTHESIS 2: the function getBorrower() is causing the segmentation fault: might be because the function is mallocing memory
+and not freeing that memory
+
+DEBUGGER FEATURES: I would place a break point before the start of the algorithm for any borrower name memory allocation. 
+Then I would run the program and see if the segmentation fault occurs before the break point is reached. If no segmentation fault
+occured, then i would take a closer look at the memory allocation. If a seg fault occured before reaching the break point, there
+is an error in the id search algorithm. I would then place a break point at the start of the ID search algorithm inside the 
+function getBorrower() and step over it to see if the seg fault occurs.
+
+b) same situation as a)
+
+c) 
+HYPOTHESIS 1: the function returnBook() returns a boolean in reverse order (TRUE in place of FALSE and vise versa): the return
+statement of the function passess true when it should return false and vise versa
+
+HYPOTHESIS 2: the function returnBook() does not actually return the book: the returning of the book is not processed while the
+checking if the book is on loan for that borrower is correct
+
+DEBUGGER FEATURES: I would place a watch point on the boolean variable that is returned (watch isOnLoan == 0) to see if it returns
+a zero when it should return a 1
+
+d)
+HYPOTHESIS 1: method getBook() did not cycle through all isbns in isbnList: the loop used does not go up to isbn length
+
+HYPOTHESIS 2: mthod getBook() does not return the name of name of the book: not initialized properly
+
+DEBUGGER FEATURES: print the value of the iterator variable after isbnList is searched. If i < isbn.length then something is wrong.
+If not, then print the value of the returned variable before it is passed by placing a break point before the return statement
+
+
+Q3)
+c) write a unit test for a book that you know exists in isbnList and that a borrower has actually borrowed this book.
+2 functions:
+    - to check if the returned boolean matches the correct boolean (hard coded in function)
+    - to check if the book named returned by the function getBook() actually returns the correct name of the book for a pre-defined
+      isbn value and compares it to the expected name of the book (hard coded)
+
+d) use the 2nd function mentioned above to test for the name of the book and write a new function checks if a hardcoded isbn value
+is in the isbnList
+
+3 functions in total
+
+
+
+
+
+
+
+
+

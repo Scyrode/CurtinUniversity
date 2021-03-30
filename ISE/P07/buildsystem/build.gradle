@@ -1,0 +1,83 @@
+plugins { id 'java' }
+
+// Without any arguments, the 'unittest' script will cause the tests to be run.
+defaultTasks 'verifyTestExistence'
+
+repositories 
+{
+    mavenCentral()
+}
+
+dependencies 
+{
+    // Let Gradle take care of acquiring and setting up JUnit and Mockito.
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.mockito:mockito-core:2.24.5'
+}
+
+sourceSets 
+{
+    // Causes Gradle to look in the base directory for the .java files (instead of src/test/java).
+    test {    
+        java {
+            srcDirs = ['..']         // One directory up, since we start inside 'buildsystem'.
+            exclude 'buildsystem/**' // But don't look for test code inside 'buildsystem'.
+        }
+    }
+}
+
+// Allow for pre-compiled .class files to be provided alongside .java files. 
+// 
+// Before compiling the .java test code, we copy these .class files into the location that Gradle 
+// would normally put compiled production code. Gradle will then be able to link the two during
+// compilation and testing.
+task(copyPrecompiledClasses, type: Copy)
+{
+    from sourceSets.test.java.srcDirs
+    exclude "buildsystem/**"
+    include "**/*.class"
+    into sourceSets.main.output.classesDirs[0]
+}
+
+// Ensure we do the copying before the compiling.
+compileTestJava.dependsOn copyPrecompiledClasses
+
+// Keep track of the number of tests actually run. See later references to 'nTests'...
+int nTests = 0
+
+test 
+{
+    // Ensure testing is never 'up-to-date' (in Gradle-speak), which means it can never be skipped, 
+    // as it would otherwise be.
+    outputs.upToDateWhen { false }
+    
+    // Ensure we get all the useful test output.
+    testLogging {
+        events 'failed', 'passed', 'skipped'
+        showExceptions true
+        showCauses true
+        showStackTraces true
+        showStandardStreams true
+        exceptionFormat org.gradle.api.tasks.testing.logging.TestExceptionFormat.FULL
+    }
+    
+    // Count the number of tests actually executed, for later...
+    afterTest {
+        nTests += 1
+    }
+}
+
+// This ensures we actually get an error message if there are no tests found. Otherwise, Gradle 
+// wouldn't consider this an error, and will simply report "BUILD SUCCESSFUL".
+task(verifyTestExistence) {
+    dependsOn test
+    doLast 
+    {
+        if(nTests == 0)
+        {
+            println("No tests found!\nMake sure your test code is in the same directory as 'unittest', "
+                + "and uses '@RunWith' and '@Test' as required by JUnit.")
+            throw new InvalidUserDataException("No tests found");
+        }
+    }
+}

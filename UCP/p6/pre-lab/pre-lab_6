@@ -1,0 +1,29 @@
+Q1)
+a) "---23  --- +46"
+b) "x= 1.230, y=216.00"
+
+Q2)
+a) scanf("%s %s", &wordOne, &wordTwo);
+b) scanf("%d:%d:%d %s", &hours, &minutes, &seconds, &ampm);
+c) scanf("N%d° %d\' %f.1\" W%d° 10\' %.1f\"");
+
+Q3)
+a)
+use a while loop with that checks if the int read is equal to EOF.
+use a fscanf() to read from the file with the format of:
+fscanf(f, "%d ", array[i]);
+Increment i at the each iteration of the while loop
+
+b)
+fscanf outputs the number of input items successfully matched 
+and assigned
+fgets returns the string on success
+
+d) I would use fgets() to read the signed integer then check
+the first char to see if its + or -. Convert the remaining String
+to int and then using an if/else statement, multiply the int by '-'
+if the first char is '-'
+
+e) same process then convert the remaining String to float and then
+using an if/else statement, multiply the int by '-' if the first
+char is '-'

@@ -1,0 +1,10 @@
+Q1)
+
+A) int cannot be initialized to NULL
+B) pointer must point to a valid memory address
+C) the value at pointer cannot be changed since pointer is not pointing at anything
+D) char** should be char*
+E) (void\*) should be (double*). A void pointer cannot be dereferenced without casting it to a specific data type
+F) ??????????????????
+G) the function pointer should be intialised as follows: 
+    int (*pointer) (void);

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3280785442</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Sources\BusRead.asm</file>
+      <file>$PROJ_DIR$\Sources\BusWrite.asm</file>
+      <file>$PROJ_DIR$\Sources\clic3.c</file>
+      <file>$PROJ_DIR$\Sources\clic3.h</file>
+      <file>$PROJ_DIR$\Sources\Initialise.asm</file>
+      <file>$PROJ_DIR$\Debug\Obj\clic3.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\msp430f5308.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlib\dl430xlsfn.r43</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\BusWrite.r43</file>
+      <file>$PROJ_DIR$\Sources\main1.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main1.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\BusRead.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Initialise.r43</file>
+      <file>$TOOLKIT_DIR$\config\linker\multiplier32.xcl</file>
+      <file>$PROJ_DIR$\Debug\Exe\Lab1.d43</file>
+      <file>$PROJ_DIR$\Debug\Exe\Lab1.ulp</file>
+      <file>$PROJ_DIR$\Debug\Obj\clic3.r43</file>
+      <file>$PROJ_DIR$\Debug\Obj\Lab1.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\main1.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\io430f5308.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\lnk430f5308.xcl</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Sources\BusRead.asm</name>
+      <outputs>
+        <tool>
+          <name>A430</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>A430</name>
+          <file> 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\BusWrite.asm</name>
+      <outputs>
+        <tool>
+          <name>A430</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>A430</name>
+          <file> 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\clic3.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 3 20 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 20 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Initialise.asm</name>
+      <outputs>
+        <tool>
+          <name>A430</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>A430</name>
+          <file> 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\main1.c</name>
+      <outputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 3 20 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 8 3</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\Lab1.d43</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 21 14 12 9 17 13 11 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ULP430</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>XLINK</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

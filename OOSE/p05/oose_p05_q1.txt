@@ -1,0 +1,3 @@
+A)
+i)
+One event source with a list of 0..* Observers. Two different types of Observers

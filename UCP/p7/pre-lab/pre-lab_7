@@ -1,0 +1,213 @@
+Q1)
+a)
+typedef struct {
+
+    int day;
+    int month;
+    int year;
+
+} Date;
+
+b)
+typedef struct {
+
+    int x;
+    int y;
+    int z;
+
+} Coordinates;
+
+c)
+typedef struct {
+
+    int streetNum;
+    char* streetName;
+    char* suburb;
+    char* city;
+    char* country;
+
+} Address;
+
+d)
+typedef struct {
+
+    int numStudents;
+    int studentIDs[];
+    char* studentNames[];
+
+} Class;
+
+e)
+typedef struct {
+
+    Class classes[];
+
+} practicals;
+
+Q2)
+a)
+Date* date = (Date*) malloc(sizeof(Date));
+free(date);
+
+b) Coordinates* coordinates = (Coordinates*) 
+                              malloc(sizeof(Coordinates) * 25);
+int i;
+for (i = 0; i < 25; i++) {
+    
+    free(coordiantes[i]);
+
+}
+
+c) typedef struct {
+
+    char name[99];
+
+} Info;
+
+Info* info = (Info*) malloc(sizeof(Info));
+info->name = (char*) malloc(sizeof(char) * 99);
+
+free(name);
+free(Info);
+
+d)
+Info* info = (Info*) malloc(sizeof(Info) * 25);
+int i;
+
+for (i = 0; i < 25; i++) {
+
+    info[i]->name = (char*) malloc(sizeof(char) * 99);
+
+}
+
+for (i = 0; i < 25; i++) {
+
+    free(info[i]->name);
+
+}
+
+for (i = 0; i < 25; i++) {
+
+    free(info[i]);
+
+}
+
+
+e) typedef struct {
+
+    int length;
+    Info* list;
+
+} InfoList;
+
+
+InfoList infoList = (InfoList*) malloc(sizeof(InfoList));
+
+infoList->list = (Info*) malloc(sizeof(Info) * 25);
+
+int i;
+
+for (i = 0; i < 25; i++) {
+
+    infoList->list[i]->name = (char*) malloc(sizeof(char) *99);
+
+}
+
+for (i = 0; i < 25; i++) {
+
+    free(infoList->list[i]->name);
+
+}
+
+free(i = 0; i < 25; i++) {
+
+    free(infoList->list[i]);
+
+}
+
+free(infoList);
+
+
+Q3)
+a)
+i) var is a struct that is on the stack
+ii) accessing the variable b in the struct var
+
+b)
+i) var is a pointer to a struct on the heap
+ii) dereferencing var then  accessing the variable b
+
+c)
+i) var is an array of structures that exist on the stack
+ii) dereferencing the ith element from the struct array var then
+    accessing the b variable inside of the ith element in the struct
+
+d)
+i)  var is a pointer to an array of structures that exists on the
+    heap
+ii) dereferencing var then dereferencing the ith element of var and
+    accessing its b value
+
+e)  
+i)  var is a pointer to a struct that exists on the heap and 
+    contains an array called b
+ii) dereferencing var then accessing the ith element of the array b
+
+f)
+i)  var is an array of pointers to structures that exist on the heap
+    and contain an array of j elements called b
+ii) dereferencing var then dereferencing the ith element of the
+    array var then accessing the jth element of the array b
+
+g)
+i)  var is an array of pointers to structures that exist on the heap
+    and contain an pointer to b
+ii) dereferencing var then dereferencing the ith element of the
+    array var then dereferencing its b value
+
+h)
+i)  var is a pointer to a struct that contains a pointer called b
+    that points to c
+ii) dereferencing var then dereferencing b then dereferencing c
+
+I)
+i)  var is a struct that contains a 2D struct array with i rows and j
+    columns called b that stores a value c
+ii) dereferencing the jth element in the ith row from the struct array
+    b in var and accessing its value c
+
+Q4)
+
+typedef struct {
+
+    FruitBat data;
+    struct LinkedListNode* next;
+
+} LinkedListNode;
+
+typedef struct {
+
+    LinkedListNode* head;
+    LinkedListNode* tail;
+    int length;
+    
+} LinkedList;
+
+- Q) How does the last point complicate 
+     the insertion of a new element?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

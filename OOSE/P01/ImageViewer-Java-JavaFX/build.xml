@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ImageViewer-JavaFX" basedir="." default="clean-build">
+    <property name="src.dir"       value="src"/>
+    <property name="resources.dir" value="resources"/>
+    <property name="build.dir"     value="build"/>
+    <property name="dist.dir"      value="dist"/>
+    <property name="main.class"    value="MainApplication"/>
+    
+    <property name="source.ver"    value="1.8" />
+    
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+        <delete dir="${dist.dir}"/>
+    </target>
+    
+    <target name="configure">
+        <echo>Verifying JavaFX...</echo>
+        <available property="javafx.exists" classname="javafx.application.Application" />
+        <fail unless="javafx.exists" message="JavaFX is not installed or not in your CLASSPATH." />
+    </target>
+    
+    <target name="compile" depends="configure">
+        <mkdir dir="${build.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${build.dir}" 
+               source="${source.ver}" includeantruntime="false" debug="true" />
+    </target>
+
+    <target name="jar" depends="compile">
+        <mkdir dir="${dist.dir}"/>
+        <jar destfile="${dist.dir}/${ant.project.name}.jar" basedir="${build.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="${main.class}"/>
+            </manifest>
+        </jar>
+        <copy todir="${dist.dir}">
+            <fileset dir="${resources.dir}"/>
+        </copy>
+        <echo>You can find the compiled .jar file in the ${dist.dir}/ directory. Run it with 'java -jar ${ant.project.name}.jar'.</echo>
+    </target>
+    
+    <target name="run" depends="jar">
+        <java jar="${dist.dir}/${ant.project.name}.jar" fork="true"/>
+    </target>
+
+    <target name="clean-build" depends="clean,jar"/>
+</project>

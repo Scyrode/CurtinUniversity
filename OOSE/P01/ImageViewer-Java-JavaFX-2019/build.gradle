@@ -1,0 +1,118 @@
+buildscript 
+{
+    repositories
+    {
+        maven { url 'https://plugins.gradle.org/m2/' }
+    }
+    
+    dependencies
+    {
+        classpath 'org.openjfx:javafx-plugin:0.0.7'
+    }
+}
+
+apply plugin: 'application'
+
+print("You are currently running Java version ${JavaVersion.current()}.\n")
+
+def java11 = JavaVersion.current().isJava11Compatible()
+if(java11)
+{
+    apply plugin: 'org.openjfx.javafxplugin'
+}
+else
+{
+    // Check to see if JavaFX is already in the classpath.
+    try
+    {
+        Class.forName('javafx.application.Application')
+    }
+    catch(ClassNotFoundException e)
+    {
+        print """
+            Cannot find JavaFX!
+            -------------------
+            Using a Curtin lab PC?
+            -> You may need to set JAVA_HOME as per instructions on Blackboard, or from the 
+               UC/lecturer.
+            
+            Using your own PC? Either:
+            -> Install Java 11 or higher (https://adoptopenjdk.net), OR 
+            -> Install JavaFX for your current Java version.
+            
+            Note: 
+            * JavaFX is a Java library for building GUI applications. It's NOT part of the Java 
+              Development Kit (JDK).
+            * This build script will attempt to download and setup JavaFX automatically, IF you're 
+              running Java 11 or above.
+            * Things would also work if JavaFX was already installed *for your current Java 
+              version*. It appears not to be.
+            """.stripIndent()
+        throw new GradleException('Cannot find JavaFX!');
+    }
+}
+
+mainClassName = 'MainApplication'
+sourceCompatibility = 1.8
+defaultTasks 'run'
+
+sourceSets 
+{
+    main
+    {
+        java { srcDirs = ['src'] }
+        resources { srcDirs = ['resources'] }
+    }
+}
+
+if(java11)
+{
+    repositories
+    {
+        mavenCentral()
+    }
+
+    javafx 
+    {
+        modules = [ 'javafx.controls' ]
+    }
+}
+
+jar
+{
+    manifest
+    {
+        attributes 'Main-Class': mainClassName
+    }
+}
+
+def errorBuffer = new ByteArrayOutputStream()
+
+task(checkRunErrors)
+{
+    doLast
+    {
+        print errorBuffer
+        
+        def error = errorBuffer.toString()
+        if(error.indexOf('Unable to open DISPLAY') != -1)
+        {
+            print """
+                Unable to open DISPLAY
+                ----------------------
+                This typically means you're running remotely (over SSH) and haven't enabled X11-
+                forwarding.
+                -> If using Linux, run 'ssh -Y ...'
+                -> If using putty on Windows, you need to install an X server (such as Xming: 
+                    http://www.straightrunning.com/XmingNotes/)
+                """.stripIndent()
+        }
+    }
+}
+
+run
+{
+    finalizedBy(checkRunErrors)
+    errorOutput(errorBuffer)
+    standardInput(System.in)
+}

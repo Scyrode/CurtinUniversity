@@ -1,0 +1,9 @@
+Venue - 8
+Bands - 20
+Insurance - 3
+Design - 8
+Distribution - 13
+Staff Accommodations - 5
+Catering - 3
+Venue Staff - 3
+Stage Setup - 3
