@@ -1,0 +1,179 @@
+<? XML version="1.0" ?>
+
+<PPIF version="0.01">
+<Problem>
+<Name>test.xml</Name>
+<Domain>BlockWorld</Domain>
+
+
+<!-- Initial State Description -->
+<InitialState>
+	<LogicProgram>
+		empty.
+		ontable(block1).
+		ontable(block2).
+		ontable(block3).
+		clear(block3).
+		ontable(block4).
+		ontable(block5).
+		ontable(block6).
+		ontable(block7).
+		on(block8, block7).
+		clear(block8).
+		on(block9, block6).
+		clear(block9).
+		clear(block5).
+		on(block10, block1).
+		clear(block10).
+		clear(block4).
+		on(block11, block2).
+		clear(block11).
+	</LogicProgram>
+
+	<!-- Block Display Information -->
+	<BlockWorld>
+		<Block name=block1 colour=red column=0 stackHeight=0></Block>
+		<Block name=block2 colour=red column=1 stackHeight=0></Block>
+		<Block name=block3 colour=red column=2 stackHeight=0></Block>
+		<Block name=block4 colour=red column=3 stackHeight=0></Block>
+		<Block name=block5 colour=red column=4 stackHeight=0></Block>
+		<Block name=block6 colour=red column=5 stackHeight=0></Block>
+		<Block name=block7 colour=red column=6 stackHeight=0></Block>
+		<Block name=block8 colour=red column=6 stackHeight=1></Block>
+		<Block name=block9 colour=red column=5 stackHeight=1></Block>
+		<Block name=block10 colour=red column=0 stackHeight=1></Block>
+		<Block name=block11 colour=red column=1 stackHeight=1></Block>
+	</BlockWorld>
+</InitialState>
+
+
+<!-- Goals -->
+<Goals>
+	<LogicProgram>
+		empty.
+		on(block3, block10).
+		ontable(block10).
+		on(block6, block4).
+		ontable(block1).
+		ontable(block4).
+		on(block2, block3).
+		clear(block2).
+		on(block5, block1).
+		clear(block5).
+		on(block11, block6).
+		clear(block11).
+		ontable(block8).
+		on(block9, block8).
+		clear(block9).
+		ontable(block7).
+		clear(block7).
+	</LogicProgram>
+
+	<!-- Block Display Information -->
+	<BlockWorld>
+		<Block name=block1 colour=red column=5 stackHeight=0></Block>
+		<Block name=block2 colour=red column=0 stackHeight=2></Block>
+		<Block name=block3 colour=red column=0 stackHeight=1></Block>
+		<Block name=block4 colour=red column=6 stackHeight=0></Block>
+		<Block name=block5 colour=red column=5 stackHeight=1></Block>
+		<Block name=block6 colour=red column=6 stackHeight=1></Block>
+		<Block name=block7 colour=red column=3 stackHeight=0></Block>
+		<Block name=block8 colour=red column=1 stackHeight=0></Block>
+		<Block name=block9 colour=red column=1 stackHeight=1></Block>
+		<Block name=block10 colour=red column=0 stackHeight=0></Block>
+		<Block name=block11 colour=red column=6 stackHeight=2></Block>
+	</BlockWorld>
+</Goals>
+
+
+<!-- STRIPS Actions -->
+<Action>
+	<LogicProgram>pickuptable(B1).</LogicProgram>
+	<Preconditions>
+		<LogicProgram>
+			ontable(B1).
+			clear(B1).
+			empty.
+		</LogicProgram>
+	</Preconditions>
+	<AddList>
+		<LogicProgram>
+			holding(B1).
+		</LogicProgram>
+	</AddList>
+	<DeleteList>
+		<LogicProgram>
+			empty.
+			ontable(B1).
+			clear(B1).
+		</LogicProgram>
+	</DeleteList>
+</Action>
+<Action>
+	<LogicProgram>pickup(B1,B2).</LogicProgram>
+	<Preconditions>
+		<LogicProgram>
+			on(B1, B2).
+			clear(B1).
+			empty.
+		</LogicProgram>
+	</Preconditions>
+	<AddList>
+		<LogicProgram>
+			holding(B1).
+			clear(B2).
+		</LogicProgram>
+	</AddList>
+	<DeleteList>
+		<LogicProgram>
+			empty.
+			on(B1, B2).
+			clear(B1).
+		</LogicProgram>
+	</DeleteList>
+</Action>
+<Action>
+	<LogicProgram>putdowntable(B1).</LogicProgram>
+	<Preconditions>
+		<LogicProgram>
+			holding(B1).
+		</LogicProgram>
+	</Preconditions>
+	<AddList>
+		<LogicProgram>
+			empty.
+			ontable(B1).
+			clear(B1).
+		</LogicProgram>
+	</AddList>
+	<DeleteList>
+		<LogicProgram>
+			holding(B1).
+		</LogicProgram>
+	</DeleteList>
+</Action>
+<Action>
+	<LogicProgram>putdown(B1,B2).</LogicProgram>
+	<Preconditions>
+		<LogicProgram>
+			clear(B2).
+			holding(B1).
+		</LogicProgram>
+	</Preconditions>
+	<AddList>
+		<LogicProgram>
+			empty.
+			on(B1, B2).
+			clear(B1).
+		</LogicProgram>
+	</AddList>
+	<DeleteList>
+		<LogicProgram>
+			clear(B2).
+			holding(B1).
+		</LogicProgram>
+	</DeleteList>
+</Action>
+</Problem>
+</PPIF>
+
