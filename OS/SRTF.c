@@ -11,7 +11,7 @@ int main(void)
     char fileName[10];
     char* programOutput;
     do {
-        printf("PP simulation: ");
+        printf("SRTF simulation: ");
         scanf("%s", fileName);
         if (strcmp(fileName, "QUIT") != 0) {
             programOutput = runSRTFProgram(fileName);
@@ -120,7 +120,7 @@ char* runSRTFProgram(char* fileName) {
             averageTurnAroundTime /= processCounter;
             averageWaitingTime /= processCounter;
 
-            snprintf(output, 1024, "Average Turnaround Time: %f\nAverage Waiting Time: %f\n", averageTurnAroundTime, averageWaitingTime);
+            snprintf(output, 1024, "the average turnaround time = %f, the average waiting time: %f\n", averageTurnAroundTime, averageWaitingTime);
         }
 
         if (ferror(in)) {

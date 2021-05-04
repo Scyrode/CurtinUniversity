@@ -120,7 +120,7 @@ char* runPPProgram(char* fileName) {
             averageTurnAroundTime /= processCounter;
             averageWaitingTime /= processCounter;
 
-            snprintf(output, 1024, "Average Turnaround Time: %f\nAverage Waiting Time: %f\n", averageTurnAroundTime, averageWaitingTime);
+            snprintf(output, 1024, "the average turnaround time = %f, the average waiting time: %f\n", averageTurnAroundTime, averageWaitingTime);
         }
 
         if (ferror(in)) {
