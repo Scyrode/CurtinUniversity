@@ -1,0 +1,254 @@
+
+RATIONAL AGENTS (12 Marks) Unit Outcomes A, B, C
+
+Question 1. a) Give the PEAS description for a diesel locomotive servicing robot agent and provide a complete description of the world in which it operates (specify the six characteristics of the world).
+Performance: How quickly the diesel tank is filled
+Environment: Gas Station, Car
+Actuators: Hose, Car Tank Door
+Sensors: Amount Filled sensor, Car Tank Door Sensor
+
+Environment Description:
+Static,
+Single Agent,
+Deterministic,
+Sequential,
+Partially Observable,
+Continuous
+								[6 marks] 
+
+b) What types of agent would be best suited for the following applications: bottle sorting agent, car painting agent. Briefly explain your selection.
+Bottle sorting agent: Goal based agent - since the agent is attempting to complete a specific goal and is not simply waiting for something to go out of order to fix it (reflex agent)
+Car Painting agent: model based reflex agent - since painting a car requires knowledge of which spots have already been painted by the agent, therefore knowledge of previous states is necessary.
+								[6 marks] 
+
+
+SEARCH (38 Marks) Unit Outcomes B, C
+
+Question 2. With the help of an example, state a problem where the greedy search will fail to reach the goal state.
+Greedy search depends on the presence of a reliable heuristic measure. Should their be a flawed heuristic measure or the complete absense of one, the greedy search will fail to reach its goal.
+								[4 marks]
+
+
+Question 3. a) What search technique would you use in the implementation of the truck driving agent given that basic estimate information about the distances in the open pit mine is available? 
+Since there exists information about hte distance in the open pit mine (a heuristic), then RBFS might be the best search algorithm.
+								[2 marks]
+
+	
+b) Consider the following statement “Depth-first search, breadth-first search, greedy search and branch and bound search can be considered to be special cases of the A* search”. Is the statement true or false? Explain your answer.
+A* search uses the actual path cost as well as the heuristic cost for its search. Therefore, if the actual cost is not present (greedy search), or the heuristic is not present (branch and bound, depth first search, and breadth first search) then it is still an A* search just with missing values (actual path cost = 0 or heuristic = 0)
+										[4 marks] 
+
+
+c) A research team has developed a new search algorithm to be used in applications such as finding the shortest path between two locations. You have been brought in to try to address the unrealistic space requirements of the new algorithm. Describe at least three approaches that you can use to reduce the space complexity of the algorithm.
+One method is to limit the depth over which the search is done (similar to iterative deeping search algorithm). By specifiying the depth allowed for the search to take place, you can limit the amount of nodes stores in memory prior to going to deep down a single branch. This is ideally used when we have some idea of how deep the solution is going to be within the searhc tree.
+Another method for reducing space complexity is introducing a reliable heuristic. Using a reliable heuristic, the search tree tends to be a lot shorter, given that the search algorithm makes use of the heuristic.
+A third method is a form of pruning. If the branch currently being explored is not promising, it should be removed from memory. However, a reliable mechanism should be developed to highlight a non promising branch so that it is pruned.
+								[9 marks] 
+
+
+Question 4. Consider the graph and heuristic table (straight line distance) for the traveling problem in the textbook (using the map of Romania). Assume that an agent has to move from node Arad to node Bucharest.
+
+
+
+
+a) Specify the difference between the first solution path found RBFS and the first solution path found by A* (the difference can be highlighted with the help of the sequence of the nodes that make up the solution path). 
+A* :
+Arad - Sibiu - 393
+Arad - Timisoara - 447
+
+Arad - Sibiu - Rimnicu Vilcea - 666
+Arad - Sibiu - Fagaras - 668
+
+Arad - Timisoara - Lugoj - 802
+
+Arad - Sibiu - Rimnicu Vilcea - Pitesti - 863
+Arad - Sibiu - Rimnicu Vilcea - Craiova - 972
+
+Arad - Sibiu - Fagaras - Bucharest - 879
+
+Arad - Timisoara - Lugoj - Mehadia - 1113
+
+Arad - Sibiu - Rimnicu Vilcea - Pitesti - Bucharest - 964
+
+Therefore, the solution for A* is: Arad - Sibiu - Fagaras - Bucharest - 879
+
+RBFS: First solution same as A*, therefore:
+Arad - Sibiu - Fagaras - Bucharest - 879
+
+[5 marks]
+
+b) Specify the difference between the first solution path found RBFS and the second solution path found by RBFS (the difference can be highlighted with the help of the sequence of the nodes that make up the solution path).
+RBFS (First solution): Arad - Sibiu - Fagaras - Bucharest - 879
+
+RBFS (second solution):
+Arad - Sibiu - Rimnicu Vilcea - Pitesti - Bucharest - 964
+
+[6 marks]
+
+c) Assuming that a node in the search tree takes up one memory cell, explain whether or not 12 memory cells are sufficient to complete the RBFS for the scenario in which the agent travels from Arad to Bucharest.
+12 memory cells would be sufficient to complete the RBFS since the nodes included would be:
+Arad, Timisoara, Zerind, Oradea, Lugoj, Mehadia, Sibiu, Rimnicu Vilcea, Fagaras, Craiova, Pitesti, Bucharest
+[5 marks]
+
+d) Explain what would happen to the RBFS search if the heuristic value for Pitesti would have been 97 instead of 100.
+If the heuristic value of Pitesti changed from 97 to 100, there would be no effect on the RBFS search tree, as the difference between the path from Rimnicu Vilcea - Pitesti - Bucharest is a lot shorter than Rimnicu Vilcea - Craiova - Pitesti - Bucharest and a lot longer than Fagaras - Bucharest.
+[4 marks]
+
+LOCAL AND ADVERSARIAL SEARCH (16 Marks) Unit Outcomes A, C
+
+Question 5. Consider the MINIMAX search tree show below:
+
+
+i) Specify the nodes that would be pruned from the tree if alpha-beta pruning were to be applied. (you can specify the nodes by their colour and value – for example the 3rd leaf node from the leftmost subtree would be 8-red; alternatively the second level mid-level node would Y-black)
+8-green, 2-red, 6-brown, 9-blue, 2-green, 2-blue
+[3 marks]
+
+ii) Assuming the value of first leaf node from the second subtree – 3-blue is 12, specify which of the nodes would be pruned (if any).
+6-brown, 9-blue, 2-green, 2-blue
+[3 marks]
+
+iii) Explain if the value of the first leaf from the second subtree – 3-blue - has any effect on whether or not, node 4-green (leaf node) is pruned.
+No it has no effect, since Y-black will choose the smallest node between its children, and the smallest node is smaller than 6 (the current max chosen from the first subtree), no child will be promoted to be at the top of the tree, therefore, it will not effect if node 4-green is pruned or not.
+[3 marks]
+
+iv) Explain what values should be assigned to the leaf nodes to prevent any of the nodes from being pruned.
+Each subtree should have its smallest child be larger than the smallest child of the previously checked tree. For example, if the smallest child in the first subtree is 6, the smallest child of the next subtree should be larger than 6.
+[3 marks]
+
+
+b) Describe two local search approaches that can be used to overcome solution landscapes that have multiple plateaus.
+Random Walk: make random movements during the search (i.e: allow for bad movements) to improve the search
+Random restart hill climbing: Generating a random start state and doing the search from their.
+								[4 marks]
+
+CONSTRAINT SATISFACTION PROBLEMS AND PLANNING (17 MARKS)
+
+Question 6. i) Which uninformed search technique is commonly used to solve Constraint Satisfaction Problems?
+Backtracking search is a commonly used method for solving constraint satisfaction problems. Backtracking is a depth first search with a single variable assignment. 
+								[3 marks]
+
+
+ii) Forward checking is often used when solving constraint satisfaction problems. Explain briefly how forward checking works and explain whether or not it has any drawbacks. 
+Forward checking works by keeping track of the available legal moves possible for unassinged variables. A draw back of forward checking is the need to backtrack a lot should a fault occur early on after exhausting all legal moves available given the early fault.
+[3 marks] 
+
+Question 7. The following questions relate to the Blocks World as described in lectures and the textbook. Recall that Blocks World uses the predicates On, OnTable, Clear, ArmEmpty and Holding and actions Stack, Unstack, Pickup and Putdown.  Consider the following planning problem with START CONDITIONS and END CONDITIONS specified as below:
+START CONDITIONS
+ontable(block1)
+ontable(block2)
+on(block3, block1)
+clear(block3)
+clear(block2)
+ArmEmpty
+
+END CONDITIONS
+ontable(block3)
+on(block2, block3)
+on(block1, block2)
+clear(block1)
+
+
+i). With this example, explain how the order of the goals in the END CONDITIONS can affect the plan using the STRIPS approach. 
+if 'On(Block2, Block3)' was the first goal, then 'block1' would be at the bottom of blocks 2 and 3. Meaning to achieve 'On(Block1, Block2)', blocks 2 and 3 need to be unstacked, blocks 1 and 2 need to be unstacked then restacked with 2 on 1.
+      [4 marks]
+
+ii). With this example, briefly explain how the forward state-space search method can be used to plan the actions to achieve the goals. Will the order of the goals have effects on the plans?  Justify your answer. 
+Both forward and backward state-space searches were not covered during this course and therefore should not expect an answer from the students.
+      [3 marks]
+
+iii). With this example, briefly explain how backward state-space search method can be used to plan the actions to achieve the goals. Will the order of the goals have effects on the plans?  Justify your answer. 
+Both forward and backward state-space searches were not covered during this course and therefore should not expect an answer from the students.
+      [3 marks]
+
+LOGIC (10 Marks)
+
+Question 8. Translate the following statements in First Order Logic into English. 
+
+										[3 marks]
+
+a. ? x,  language(x) ? [??y, StudentAtCurtinUniversity(y) ==>?Speaks(y,x)]	
+There exists a language that all Students at curtin university can speak.
+
+b. ??x Student(x) ?==>????y, Unit(y) ??likes (x, y )]
+All students like at least one unit.
+
+ii). In which of the following cases does the knowledge base (KB) entail the proposition S? 
+
+      [3 marks]
+
+c. KB = P<=> Q,  S =  P ==>?Q 
+
+KB entails S.
+
+d. KB = P \/ Q, S = P /\ Q. 
+
+KB does not entail S.
+
+iii) Assume that the only actions available are Lock and Unlock, write a successor-state axiom for the predicate DoorLocked using logic and explain this axiom using plain English.
+forAll s, a DoorLocked(Result(a, s)) => [DoorLocked(s) /\ !(a = unlock)] /\ [!DoorLocked(s) /\ (a = lock)]
+									 [4 marks]
+
+MACHINE LEARNING (17 MARKS) Unit Outcomes B, C, D
+
+Question 9. a) Consider the following training data set:
+
+Training Set
+
+a)	7	2	3	8	2	14	Yes
+b)	7	2	4	8	2	14	Yes
+c)	2	2	4	8	2	14	Yes
+d)	3	2	8	8	8	8	No
+e)	7	2	4	8	6	10	Yes
+f)	3	3	3	3	3	3	No
+
+Show the processing involved when the Version Spaces (Candidate Elimination Algorithm) is used to process the dataset. You should show the hypothesis after each step in the processing as well as the action taken.
+S1 = {7, 2, 3, 8, 2, 14}
+S2 = {7, 2, ?, 8, 2, 14}
+S3 = {?, 2, ?, 8, 2, 14}
+S4 = {?, 2, ?, 8, 2, 14}
+S5 = {?, 2, ?, 8, ?, ?}
+S6 = {?, 2, ?, 8, ?, ?}
+
+G1 = {}
+G2 = {}
+G3 = {}
+G4_1 = {?, 2, ?, ?, ?, ?}, G4_2 = {?, ?, ?, 8, ?, ?}, G4_3 = {?, ?, ?, ?, 2, ?}, G4_4 = {?, ?, ?, ?, ?, 14}
+G5_1 = {?, 2, ?, ?, ?, ?}, G5_2 = {?, ?, ?, 8, ?, ?}
+G6_1 = {?, 2, ?, ?, ?, ?}, G6_2 = {?, ?, ?, 8, ?, ?}
+
+								[6 marks] 
+ 
+
+ b) Compare and contrast the Version Spaces approach with the learning by analyzing differences approach. Your answer must cover, basic learning approach, advantages, disadvantages and applications.
+
+ Version Spaces approach attempts to create a hypothesis that matches all the examples in the training set. There are two methods that use the version spaces approach: List-and-eliminate as well as Candiadate-elimination methods. The main advantage of both methods is that a hypothesis will be found if and only if a hypothesis exists that describes the training set correctly. Main disadvantage is memory use. In the list-and-eliminate, if the training set is too large or infinite, the list will be infinite. In the Candiadate-elimination method, the specialised and generalised set can also approach infinity.
+
+ Learning by analyzing involves the use of near misses (solutions that are very close to the desired goal state with a small exception) to generate hypothesies that explain goal state. It does this by creating forbidden links and required links. Every time a near miss is detected, it checks wether a hypothesis is present in the goal state but not present in the near miss, it adds it to the required links. If a hypothesis is present in the near miss but not present in the goal state, it adds it to the forbidden links. The main advantage of the learning by analyzing approach is the memory effeciency, as the forbidden and required links tend to be finite. The main disadvantage of the learning by analyzing approach is the effect of negative examples on the learning time. The presence of a lot of negative examples can significantly increase learning time.
+
+								[8 marks]
+
+
+c) Describe with the help of an example, how decision trees handle missing attribute data.
+With description trees, if an attribute is missing, it is assigned the most common attribute present in the training set that matches the current node. For example, if the number of forks at a table is missing and we know that the table being used is a rounded table, we check what it is the most common number of forks usually present at a round table from the training set and we assign it to the missing attribute.
+								[3 marks]
+
+UNCERTAINTY (11 MARKS)
+
+Question 10. Consider a Bayesian network as shown in Figure 1. All the variables are Boolean.
+
+Figure 1
+
+i) Find two variables which are dependent but conditionally independent.  Provide the condition(s) for the conditional independence.
+D & G are dependent and conditionally independent. The condition for independence is that F is known.
+   [2 marks]
+
+ii) Find two variables which are (unconditionally) independent but conditionally dependent.  Provide the conditions for the conditional dependence. 
+A & B are unconditionally independent but are conditionally dependent. The condition for dependence is that C is known.
+   [2 marks]
+
+iii)  How many prior probabilities and conditional probabilities are required to completely describe this Bayesian network so that every joint probabilities can be inferred from them? List the required probabilities and conditional probabilities. 
+By knowing A and B, the entire Bayesian network is D-Connected, therefore, it is possible to infer the probabilities of the rest of the Bayesian network from A and B
+   [7 marks]
+
+END OF EXAM PAPER
+2

@@ -1,0 +1,10 @@
+ASSUMPTION 1:
+the processes in the input file are sorted by 'arrival time'
+
+ASSUMPTION 2:
+The priority of each process is UNIQUE (meaning no two processes
+	can have the same priority)
+
+ASSUMPTION 3:
+The user MUST include the file extension for the input file name
+	(i.e: "sim_input.txt", not "sim_input")
