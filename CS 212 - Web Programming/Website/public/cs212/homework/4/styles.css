@@ -1,0 +1,46 @@
+:root {
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: hsl(200, 100%, 50%);
+}
+
+.centrePage {
+    max-width: 960px;
+    margin: auto;
+    border: 32px black solid;
+    background-color: hsl(40, 100%, 40%);
+    padding: 16px;
+}
+
+h1 {
+    font-family: 'Ephesis', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 8px;
+    background-color: antiquewhite;
+}
+
+.subtitle {
+    font-family: 'Ephesis', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin: 8px;
+}
+
+h2 {
+    font-family: 'Ephesis', cursive;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Ephesis', cursive;
+    font-size: 20px;
+}

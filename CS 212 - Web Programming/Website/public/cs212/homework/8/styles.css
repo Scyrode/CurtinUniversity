@@ -1,0 +1,12 @@
+:root {
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+input {
+    display: block;
+    margin-bottom: 1em;
+}

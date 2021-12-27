@@ -1,0 +1,81 @@
+:root {
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.HolyGrail-Container {
+    display: grid;
+
+    grid-template-areas: 
+    "header header header"
+    "nav content side"
+    "footer footer footer";
+
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-rows: auto 1fr auto;
+
+    height: 100vh;
+}
+
+header {
+    grid-area: header;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    background-color: darkgreen;
+}
+
+nav {
+    grid-area: nav;
+    background-color: navajowhite;
+    padding-left: 1em;
+}
+
+main {
+    grid-area: content;
+    padding-top: 1em;
+    padding-left: 1em;
+    background-color: saddlebrown;
+}
+
+aside {
+    grid-area: side;
+    background-color: seagreen;
+}
+
+footer {
+    grid-area: footer;
+    background-color: aqua;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .HolyGrail-Container {
+        grid-template-areas:
+        "header"
+        "nav"
+        "content"
+        "side"
+        "footer";
+
+        grid-template-columns: 1fr;
+
+        grid-template-rows:
+        auto
+        auto
+        1fr
+        auto
+        auto;
+    }
+}

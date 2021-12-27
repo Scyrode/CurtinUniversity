@@ -1,0 +1,24 @@
+:root {
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.pane {
+    background-color: #e1e6f5;
+    padding: 10px 20px 10px;
+    border-top: solid 2px #9bbedf;
+    position: relative;
+}
+
+.remove-button {
+    position: absolute;
+    font-size: 110%;
+    top: 0;
+    color: crimson;
+    right: 10px;
+    display: block;
+    background: transparent;
+}

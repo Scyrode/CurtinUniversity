@@ -1,0 +1,23 @@
+#cssQuestion {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#cssQuestion th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: skyblue;
+    color: royalblue;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#cssQuestion td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.alternativeRow {
+    background-color: #f2f2f2;
+}

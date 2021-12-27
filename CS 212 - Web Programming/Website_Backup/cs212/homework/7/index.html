@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <script type="module" src="js_index.js"></script>
+        <link href="styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="HolyGrail-Container">
+            <header>Please input 5 numbers to see the min, max and average of them</header>
+            <nav>
+                <h1>Scyout</h1>
+                <ul>
+                    <li>Homepage</li>
+                    <li>Homework 1</li>
+                    <li>Homework 2</li>
+                    <li>Homework 4</li>
+                    <li>Homework 7</li>
+                </ul>
+            </nav>
+            <main>
+                <input id="firstNum-box" type="number" min="1" max="100">
+                <input id="secondNum-box" type="number" min="1" max="100">
+                <input id="thirdNum-box" type="number" min="1" max="100">
+                <input id="fourthNum-box" type="number" min="1" max="100">
+                <input id="fifthNum-box" type="number" min="1" max="100">
+
+                <button id="startButton">Start calculation</button>
+
+                <pre id="answer-display"></pre>
+            </main>
+            <aside>
+                <a href="https://www.amazon.com.au/ChromeWheels-Skateboard-Complete-Longboard-Outdoors/dp/B07NS3K8KG/ref=sr_1_9?keywords=skateboard&qid=1637610489&sr=8-9">
+                    <img src="https://m.media-amazon.com/images/I/61p5MI5+3OL._AC_SL1000_.jpg" alt="Skateboard Ad">
+                </a>
+            </aside>
+            <footer>
+                <h1>Addendum</h1>
+
+                <h2>Problem Description</h2>
+
+                <p>The problem that this webpage solves is finding the min, max and average of a list of numbers. The user inputs any 5 numbers that they would like the calculation to be performed on and then click "start calculation". The webpage then find the goes through the number list and prints the min and max of the numbers inputted. It also calculates the average value from the numbers inputted and prints it as well.</p>
+
+                <h2>Challenges</h2>
+
+                <h3>"null has been blocked by CORS policy" JS error</h3>
+
+                <p>Despite connecting up the javascript file correctly to the html page using the 'script' tag, the javascript did not work, showing the error: "null has been blocked by CORS policy". It turns out that in order for the js script to connect properly to the html file, the html page cannot be opened using a file explorer but instead must be opened through a host. So after uploading the html along with the css and js files to my website, the error went away and the javascript worked</p>
+
+                <h3>Fitting the iamge ad inside of the 'aside' section</h3>
+
+                <p>After placing the image inside of the 'aside' section, it did not resize to fit the 'aside' section. In order to fix that, its width property was set to 100%, to occupy all the available width of its parent container (i.e: 'aside' section) and the height was set to 'auto' to maintain the photo's aspect ratio.</p>
+            </footer>
+        </div>
+    </body>
+</html>
